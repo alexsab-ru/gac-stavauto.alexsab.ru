@@ -88,9 +88,9 @@ elements_to_localize = []
 # Предполагаем, что cars_element уже определён
 all_duplicates = []  # Список для хранения всех дубликатов
 
-cars_element = root.find('Ads')
+cars_element = root
 
-for car in root:
+for car in cars_element:
     unique_id = f"{build_unique_id(car, 'mark_id', 'folder_id', 'modification_id', 'complectation_name', 'color', 'year')}"
     unique_id = f"{process_unique_id(unique_id)}"
     print(f"Уникальный идентификатор: {unique_id}")
