@@ -72,7 +72,7 @@ def duplicate_car(car, n, status = "в пути", offset = 0):
         print(vin, new_vin, unique_id, new_unique_id)
         
         # Обновляем статус
-        new_car.find('availability').text = status  # Меняем статус Наличие автомобиля
+        new_car.find('Availability').text = status  # Меняем статус Наличие автомобиля
         duplicates.append(new_car)
     
     return duplicates
@@ -81,14 +81,16 @@ cars_available = int(os.getenv('CARS_AVAILABLE', '0'))
 cars_ontheway = int(os.getenv('CARS_ONTHEWAY', '0'))
 cars_toorder = int(os.getenv('CARS_TOORDER', '0'))
 
+print(cars_available)
+
 # Предполагаем, что у вас есть элементы с именами
 elements_to_localize = []
 # Предполагаем, что cars_element уже определён
 all_duplicates = []  # Список для хранения всех дубликатов
 
-cars_element = root.find('Ad')
+cars_element = root.find('Ads')
 
-for car in cars_element:
+for car in root:
     unique_id = f"{build_unique_id(car, 'mark_id', 'folder_id', 'modification_id', 'complectation_name', 'color', 'year')}"
     unique_id = f"{process_unique_id(unique_id)}"
     print(f"Уникальный идентификатор: {unique_id}")
