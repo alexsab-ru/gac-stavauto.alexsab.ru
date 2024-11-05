@@ -91,7 +91,7 @@ remove_mark_ids = [
 ]
 remove_folder_ids = [
 ]
-cars_element = root.find('cars')
+cars_element = root
 
 for car in cars_element:
     should_remove = False
