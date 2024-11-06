@@ -1,104 +1,56 @@
 dealer = {
-    "city": "Оренбург",
-    "where": "Оренбурге",
+    "city": "Ставрополь",
+    "where": "Ставрополе",
 }
 # Словарь соответствия цветов
 model_mapping = {
-    "Atlas Pro": {
-        "folder": "Atlas Pro",
+    "GN8": {
+        "folder": "gn8",
         "color": {
-            "Черный": "black-metallic",
-            "Черный/черный": "black-metallic",
-            "Серый": "gray-metallic",
-            "Красный": "red-metallic",
-            "Серебристый": "silver-metallic",
+            "Черный": "black.webp",
+            "Синий": "blue.webp",
+            "Коричневый": "brown.webp",
+            "Белый": "white.webp",
         }},
-    "Atlas, I": {
-        "folder": "Atlas Pro",
+    "GS5": {
+        "folder": "gs5",
         "color": {
-
+            "Черный": "black.webp",
+            "Коричневый": "brown.webp",
+            "Серый": "gray.webp",
+            "Голубой": "ice-blue.webp",
+            "Серебристый": "silver.webp",
+            "Серебряный": "silver.webp",
+            "Белый": "white.webp",
         }},
-    "Atlas, II": {
-        "folder": "Atlas-2024",
+    "GS8, I поколение": {
+        "folder": "gs8",
         "color": {
-            "Черный": "black-metallic",
-            "Черный/черный": "black-metallic",
-            "Серебристый": "silver-metallic",
-            "Серый": "starry-blue-metallic",
-            "Белый": "white",
+            "Черный": "black.webp",
+            "Синий": "blue.webp",
+            "Коричневый": "brown.webp",
+            "Серый": "gray.webp",
+            "Голубой": "ice-blue.webp",
+            "Белый": "white.webp",
         }},
-    "Coolray, I Рестайлинг": {
-        "folder": "New Coolray",
+    "GS8": {
+        "folder": "gs8ii",
         "color": {
-            "Красный": "bright-vermilion",
-            "Белый": "crystal-white",
-            "Синий": "cyber-blue",
-            "Серый": "magnetic-grey",
-            "Серебристый": "unicorn-grey",
+            "Черный": "black.webp",
+            "Серый": "gray.webp",
+            "Зеленый": "green.webp",
+            "Серебристый": "silver.webp",
+            "Серебряный": "silver.webp",
+            "Белый": "white.webp",
         }},
-    "Coolray, I": {
-        "folder": "Coolray",
+    "M8": {
+        "folder": "m8",
         "color": {
-            "Синий": "blue-metallic",
-            "Серый": "grey",
-            "Красный": "red",
-            "Серебристый": "silver-metallic",
-            "Белый": "white",
-        }},
-    "Emgrand L": {
-        "folder": "Emgrand",
-        "color": {
-            "Черный": "black-metallic",
-            "Синий": "blue-metallic",
-            "Золотой": "gold-metallic",
-            "Серый": "gray-metallic",
-            "Белый": "white-metallic",
-        }},
-    "Emgrand, II": {
-        "folder": "Emgrand",
-        "color": {
-            "Черный": "black-metallic",
-            "Синий": "blue-metallic",
-            "Золотой": "gold-metallic",
-            "Оранжевый": "gold-metallic",
-            "Серый": "gray-metallic",
-            "Белый": "white-metallic",
-        }},
-    "Monjaro": {
-        "folder": "Monjaro",
-        "color": {
-            "Черный": "black-metallic",
-            "Черный/черный": "black-metallic",
-            "Зеленый": "emerald-metallic",
-            "Синий": "emerald-metallic",
-            "Серый": "gray-metallic",
-            "Серебристый": "silver-metallic",
-            "Белый": "white-metallic",
-        }},
-    "Okavango": {
-        "folder": "Okavango",
-        "color": {
-
-        }},
-    "Tugella, I Рестайлинг": {
-        "folder": "Tugella",
-        "color": {
-            "Черный": "black-metallic",
-            "Черный/черный": "black-metallic",
-            "Серо-голубой": "gray-blue-metallic",
-            "Серый": "gray-metallic",
-            "Белый": "white-metallic",
-        }},
-    "X50": {
-        "folder": "Belgee X50",
-        "color": {
-            "Черный": "black",
-            "Черный/черный": "black",
-            "Серый": "gray",
-            "Красный": "red",
-            "Синий": "blue",
-            "Серебристый": "silver",
-            "Белый": "white",
+            "Черный": "black.webp",
+            "Синий": "blue.webp",
+            "Зеленый": "green.webp",
+            "Золотой": "gold.webp",
+            "Белый": "white.webp",
         }},
     # ... добавьте другие модели по мере необходимости
 }

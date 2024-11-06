@@ -1,19 +1,19 @@
 import { phoneFormat } from '@/js/utils/numbers.format';
 import { LAST_DAY, MONTH, YEAR } from '@/js/utils/date';
 // Название сайта по умолчанию
-export const SITE_NAME = 'Название сайта';
+export const SITE_NAME = 'GAC Центр Кулакова';
 // Юр лицо
-export const LEGAL_ENTITY = 'ООО «Юридическое название»';
+export const LEGAL_ENTITY = 'ООО «Ставрополь-Авто»';
 // ИНН
-export const LEGAL_INN = '1234567890';
+export const LEGAL_INN = '2634074197';
 // Город
-export const LEGAL_CITY = 'г. Город';
+export const LEGAL_CITY = 'г. Ставрополь';
 // где? в Городе
-export const LEGAL_CITY_WHERE = 'Городе';
+export const LEGAL_CITY_WHERE = 'Ставрополе';
 // Описание сайта по умолчанию
-export const SITE_DESCR = 'Официальный дилерский центр';
+export const SITE_DESCR = 'Официальный дилерский центр GAC в Ставрополе';
 // Телефон по умолчанию
-export const PHONE = '+7 (999) 000-00-00';
+export const PHONE = '+7 (8652) 51-03-03';
 // Бренд
 export const BRAND = 'Baic';
 // Конечное время для таймера
