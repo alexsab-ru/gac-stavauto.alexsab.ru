@@ -1,0 +1,161 @@
+---
+import Layout from '@/layouts/Layout.astro';
+import Button from '@/components/Button/Button.astro';
+import { Icon } from 'astro-icon/components';
+import { phoneFormat } from '@/js/utils/numbers.format';
+import { PHONE, LEGAL_CITY_WHERE, SITE_NAME } from '@/const';
+const bannerImg = '/img/service-and-warranty-banner.webp';
+
+import { files } from './files.json';
+const { warrantyFiles, servicesFiles, archivesFiles } = files;
+import models from '@/data/models.json';
+---
+
+<Layout
+	h1="Сервис и гарантия"
+	title="Сервис и гарантия"
+	description={`На основные элементы автомобилей, GAC MOTOR | ${SITE_NAME} в ${LEGAL_CITY_WHERE}, кроме специфических и специально оговоренных, гарантийный период с момента продажи первому Владельцу составляет 5 лет или 150 000 км пробега, в зависимости от того, что наступит раньше.`}
+	image={bannerImg}
+>
+
+	<section class="relative p-0 text-white">
+		<img src={bannerImg} alt="Сервис и гарантия" class="xs:!aspect-square aspect-video md:!aspect-auto object-cover">
+		<div class="container absolute top-0 left-1/2 -translate-x-1/2 py-10 xl:py-20">
+			<h1 class="text-3xl lg:text-6xl font-bold mb-2 lg:mb-5">Сервис и гарантия</h1>
+			<p class="mb-2 lg:mb-5 lg:text-xl">Запись на сервис по телефону для владельцев GAC</p>
+			<a class="whitespace-nowrap lg:text-2xl inline-block mb-5 lg:mb-10 font-bold" href={`tel:${phoneFormat(PHONE)}`}>{ PHONE }</a>
+			<Button 
+				classes="popup-link w-fit block" 
+				url="#common-modal" 
+				title="Запись на сервис"
+				dataTitle="Записаться на сервис"
+				dataFormName={`Запись на сервис GAC`}
+			/>
+		</div>
+	</section>
+
+{ warrantyFiles.length > 0 && (
+	<section class="pb-20">
+		<div class="container">
+			<h2 class="mb-5 sm:mb-10">Гарантия</h2>
+			<p class="text-center text-xs sm:text-lg max-w-5xl mx-auto mb-10">На&nbsp;основные элементы автомобилей GAC MOTOR, эксплуатируемых на&nbsp;территории России, кроме специфических и&nbsp;специально оговоренных, гарантийный период с&nbsp;момента продажи первому Владельцу составляет <b>5&nbsp;лет или 150&nbsp;000&nbsp;км пробега</b>, в&nbsp;зависимости от&nbsp;того, что наступит раньше.</p>
+
+				<div class="flex flex-wrap justify-center gap-x-10 gap-y-14">
+					{warrantyFiles.map((file) => 
+						<div class="flex-0 basis-[472px] bg-gray-100 p-10 flex flex-col justify-center items-center gap-6 sm:gap-10 relative">
+							<Icon name="file" class="text-5xl sm:text-7xl" />
+							<div class="text-center">
+								<h3 class="font-bold text-lg">{file.name}</h3>
+								<small>{file.info}</small>
+							</div>
+							<Button 
+								classes="inline-block gray absolute top-[calc(100%-25px)] " 
+								url={file.url}
+								title="Скачать"
+								download
+								target="_blank"
+							/>
+						</div>
+					)}
+				</div>
+		</div>
+	</section>
+)}
+
+{ (models.length > 0 && Object.keys(servicesFiles).length > 0 ) && (
+	<section class="pb-20" x-data={`{ current: '${Object.keys(servicesFiles)[0]}' }`}>
+		<div class="container">
+			<h2 class="mb-10 text-center">Техническое обслуживание</h2>
+
+			<div class="flex flex-wrap justify-center mb-10">
+				{models.map(model => Object.keys(servicesFiles).includes(model.id) && 
+						<div 
+							class={`flex-auto text-center basis-1/4 border-b-2 cursor-pointer`}
+							@click={`current = '${model.id}'`}
+							:class={`{'border-b-accent-500': current === '${model.id}'}`}
+						>
+							<img src={model.thumb} alt={`GAC ${model.name}`} class="transition-opacity" :class={`current === '${model.id}' ? 'opacity-100' : 'opacity-50'`} />
+							<h3 class="font-bold pb-3">{model.name}</h3>
+						</div>
+						
+				)}
+			</div>
+
+			{models.map(model => Object.keys(servicesFiles).includes(model.id) && (
+			<div 
+				class="flex-wrap justify-center gap-x-10 gap-y-14"
+				:class={`current === '${model.id}' ? 'flex' : 'hidden'`}						
+			>
+				{servicesFiles[model.id].map((file) => (
+					<div class="flex-0 basis-[472px] bg-[#333] text-white p-10 flex flex-col justify-center items-center gap-6 sm:gap-10 relative">
+						<Icon name="file" class="text-5xl sm:text-7xl" />
+						<div class="text-center">
+							<h3 class="font-bold text-lg">{file.name}</h3>
+							<small>{file.info}</small>
+						</div>
+						<Button 
+							classes="inline-block absolute top-[calc(100%-25px)] " 
+							url={file.url}
+							title="Скачать"
+							download
+							target="_blank"
+						/>
+					</div>
+				)
+				)}
+			</div>
+			) )}
+
+		</div>
+	</section>
+)}
+
+{ (models.length > 0 && Object.keys(archivesFiles).length > 0 ) && (
+	<section class="pb-20" x-data={`{ current: '${Object.keys(archivesFiles)[0]}' }`}>
+		<div class="container">
+			<h2 class="mb-10 text-center">Архивные модели</h2>
+
+			<div class="flex flex-wrap justify-center mb-10">
+				{models.map(model => Object.keys(archivesFiles).includes(model.id) && 
+						<div 
+							class={`flex-auto text-center basis-1/4 border-b-2 cursor-pointer`}
+							@click={`current = '${model.id}'`}
+							:class={`{'border-b-accent-500': current === '${model.id}'}`}
+						>
+							<img src={model.thumb} alt={`GAC ${model.name}`} class="transition-opacity" :class={`current === '${model.id}' ? 'opacity-100' : 'opacity-50'`} />
+							<h3 class="font-bold pb-3">{model.name}</h3>
+						</div>
+						
+				)}
+			</div>
+
+			{models.map(model => Object.keys(archivesFiles).includes(model.id) && (
+			<div 
+				class="flex-wrap justify-center gap-x-10 gap-y-14"
+				:class={`current === '${model.id}' ? 'flex' : 'hidden'`}						
+			>
+				{archivesFiles[model.id].map((file) => (
+					<div class="flex-0 basis-[472px] bg-[#333] text-white p-10 flex flex-col justify-center items-center gap-6 sm:gap-10 relative">
+						<Icon name="file" class="text-5xl sm:text-7xl" />
+						<div class="text-center">
+							<h3 class="font-bold text-lg">{file.name}</h3>
+							<small>{file.info}</small>
+						</div>
+						<Button 
+							classes="inline-block absolute top-[calc(100%-25px)] " 
+							url={file.url}
+							title="Скачать"
+							download
+							target="_blank"
+						/>
+					</div>
+				)
+				)}
+			</div>
+			) )}
+
+		</div>
+	</section>
+)}
+
+</Layout>

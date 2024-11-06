@@ -1,0 +1,155 @@
+{
+	"files" : {
+		"warrantyFiles": [
+			{
+				"name": "GAC_POWER_5W30 RUS.pdf",
+				"info":  "PDF, 278.21 Кб",
+				"url":  "https://gacmotor.com.ru/media/download/docs/4pUNnY__gac-power-5w30-rus.pdf"
+			},
+			{
+				"name": "GAC_POWER_5W30.docx",
+				"info":  "DOCX, 261.29 Кб",
+				"url":  "https://gacmotor.com.ru/media/download/docs/npP4sH__gac-power-5w30-pdf.docx"
+			},
+			{
+				"name": "Гарантийные условия все модели.doc",
+				"info":  "DOC, 92.00 КБ",
+				"url":  "https://gacmotor.com.ru/media/download/docs/2Mxn2e__garantijnye-uslovia-vse-modeli.doc"
+			},
+			{
+				"name": "GAC Motor Assistance.pdf",
+				"info":  "PDF, 108.25 Кб",
+				"url":  "https://gacmotor.com.ru/media/download/docs/xAk6Nd__programma-gac-motor-assistance.pdf"
+			},
+			{
+				"name": "Правила оказания услуг.docx",
+				"info":  "DOCX, 89.07 КБ",
+				"url":  "https://gacmotor.com.ru/media/download/docs/uzTJMs__pravila-okazania-uslug.docx"
+			}
+		],
+		"servicesFiles": {
+			"m8": [
+				{
+					"name": "М8 Руководство пользователя",
+					"info":  "PDF, 36.17 Мб",
+					"url":  "https://gacmotor.com.ru/media/download/docs/Unfpjz__m8-rukovodstvo-pol-zovatela.pdf"
+				},
+				{
+					"name": "М8 Сервисная книжка",
+					"info":  "PDF, 726.29 Кб",
+					"url":  "https://gacmotor.com.ru/media/download/docs/rf8649__m8-servisnaa-knizka.pdf"
+				},
+				{
+					"name": "Программа GAC Motor Assistance PREMIUM M8_upd",
+					"info":  "DOCX, 1.53 Мб",
+					"url":  "https://gacmotor.com.ru/media/download/docs/93LfE9__programma-gac-motor-assistance-premium-m8-upd.pdf"
+				},
+				{
+					"name": "M8 Справочник по вождению",
+					"info":  "PDF, 18.93 Мб",
+					"url":  "https://gacmotor.com.ru/media/download/docs/x5mxXx__m8-spravocnik-po-vozdeniu.pdf"
+				}
+			],
+			"gs8ii": [
+				{
+					"name": "GS8 New Руководство по эксплуатации.pdf",
+					"info":  "PDF, 278.21 Кб",
+					"url":  "https://gacmotor.com.ru/media/download/docs/Fz32NG__gs8-new-rukovodstvo-po-ekspluatacii.pdf"
+				},
+				{
+					"name": "GS8 New Сервисная книжка.pdf",
+					"info":  "PDF, 990 Кб",
+					"url":  "https://gacmotor.com.ru/media/download/docs/HgSZHh__gs8-new-servisnaa-knizka.pdf"
+				},
+				{
+					"name": "GS8 New Краткий справочник.pdf",
+					"info":  "PDF, 21,6 Mб",
+					"url":  "https://gacmotor.com.ru/media/download/docs/DJ1Vaw__gs8-new-kratkij-spravocnik.pdf"
+				}
+			],
+			"gs5": [
+				{
+					"name": "GS5 Перечень работ ТО.xlsx",
+					"info":  "XLSX, 52.20 Кб",
+					"url":  "https://gacmotor.com.ru/media/download/docs/Y8meTu__gs5-perecen-rabot-to.xlsx"
+				},
+				{
+					"name": "GS5 Руководство пользователя.pdf",
+					"info":  "PDF, 8.61 Мб",
+					"url":  "https://gacmotor.com.ru/media/download/docs/2cbPJF__gs5-rukovodstvo-pol-zovatela-1.pdf"
+				},
+				{
+					"name": "GS5 Сервисная книжка.pdf",
+					"info":  "PDF, 471.64 Кб",
+					"url":  "https://gacmotor.com.ru/media/download/docs/p4qLxJ__gs5-servisnaa-knizka.pdf"
+				},
+				{
+					"name": "GS5 Справочник по вождению.pdf",
+					"info":  "PDF, 7.59 Мб",
+					"url":  "https://gacmotor.com.ru/media/download/docs/zwMxiq__gs5-spravocnik-po-vozdeniu.pdf"
+				},
+				{
+					"name": "GS5 Школа технического обслуживания.pdf",
+					"info":  "PDF, 20.46 Мб",
+					"url":  "https://gacmotor.com.ru/media/download/docs/U8GBqD__gs5-skola-tehniceskogo-obsluzivania.pdf"
+				}
+			]
+		},
+		"archivesFiles": 	{
+			"gs8": [
+				{
+					"name": "GS8 Перечень работ ТО.xlsx",
+					"info":  "XLSX, 28.79 Кб ",
+					"url":  "https://gacmotor.com.ru/media/download/docs/WWTzSs__gs8-perecen-rabot-to.xlsx"
+				},
+				{
+					"name": "GS8 Руководство пользователя.pdf",
+					"info":  "PDF, 11.70 Мб ",
+					"url":  "https://gacmotor.com.ru/media/download/docs/nHXNge__gs8-rukovodstvo-pol-zovatela.pdf"
+				},
+				{
+					"name": "GS8 Сервисная книжка.pdf",
+					"info":  "PDF, 2.04 Мб ",
+					"url":  "https://gacmotor.com.ru/media/download/docs/WqsbXa__gs8-servisnaa-knizka.pdf"
+				},
+				{
+					"name": "GS8 Справочник по вождению.pdf",
+					"info":  "PDF, 5.06 Мб ",
+					"url":  "https://gacmotor.com.ru/media/download/docs/ucBade__gs8-spravocnik-po-vozdeniu.pdf"
+				},
+				{
+					"name": "GS8 Школа технического обслуживания.pdf",
+					"info":  "PDF, 19.86 Мб ",
+					"url":  "https://gacmotor.com.ru/media/download/docs/1kvg3L__gs8-skola-tehniceskogo-obsluzivania.pdf"
+				}
+			],
+			"gn8": [
+				{
+					"name": "GN8 Перечень работ ТО.xlsx",
+					"info":  "XLSX, 51.80 Кб ",
+					"url":  "https://gacmotor.com.ru/media/download/docs/gsmTSy__gn8-perecen-rabot-to.xlsx"
+				},
+				{
+					"name": "GN8 Руководство пользователя.pdf",
+					"info":  "PDF, 12.98 Мб ",
+					"url":  "https://gacmotor.com.ru/media/download/docs/g6BDDP__gn8-rukovodstvo-pol-zovatela.pdf"
+				},
+				{
+					"name": "GN8 Сервисная книжка.pdf",
+					"info":  "PDF, 3.38 Мб ",
+					"url":  "https://gacmotor.com.ru/media/download/docs/9qUGxU__gn8-servisnaa-knizka.pdf"
+				},
+				{
+					"name": "GN8 Справочник по вождению.pdf",
+					"info":  "PDF, 8.50 Мб ",
+					"url":  "https://gacmotor.com.ru/media/download/docs/ts4qxA__gn8-spravocnik-po-vozdeniu.pdf"
+				},
+				{
+					"name": "GN8 Школа технического обслуживания.pdf",
+					"info":  "PDF, 19.16 Мб ",
+					"url":  "https://gacmotor.com.ru/media/download/docs/8rHTMN__gn8-skola-tehniceskogo-obsluzivania.pdf"
+				}
+			]
+		}
+	}
+}

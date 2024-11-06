@@ -15,7 +15,7 @@ export const SITE_DESCR = 'Официальный дилерский центр 
 // Телефон по умолчанию
 export const PHONE = '+7 (8652) 51-03-03';
 // Бренд
-export const BRAND = 'Baic';
+export const BRAND = 'GAC';
 // Конечное время для таймера
 //string 2024-04-26 or 2024-04-26 23:59:59 or December 31 2015 or December 31 2015 23:59:59 GMT+02:00
 export const TIMER_ENDTIME = '';
@@ -30,9 +30,10 @@ export const LINKS_MENU = [
 	{url: 'cars/', name: 'Авто в наличии'},
 	{url: 'models/', name: 'Модели'},
 	{url: 'special-offers/', name: 'Спецпредложения'},
-	{url: 'news/', name: 'Новости'},
+	// {url: 'news/', name: 'Новости'},
 	{url: 'test-drive/', name: 'Запись на тест-драйв'},
 	{url: 'service-request/', name: 'Запись на сервис'},
+	{url: 'service-and-warranty/', name: 'Сервис и гарантия'},
 	{url: '#services', name: 'Услуги'},
 	{url: 'contacts/', name: 'Контакты'},
 ];
