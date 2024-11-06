@@ -47,7 +47,7 @@ model_mapping = {
             "Голубой": "ice-blue.webp",
             "Белый": "white.webp",
         }},
-    "GS8": {
+    "GS8, II": {
         "folder": "gs8ii",
         "color": {
             "Черный": "black.webp",
