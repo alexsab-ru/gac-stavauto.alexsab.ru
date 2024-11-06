@@ -8,14 +8,27 @@ model_mapping = {
         "folder": "gn8",
         "color": {
             "Черный": "black.webp",
+            "Чёрный": "black.webp",
             "Синий": "blue.webp",
             "Коричневый": "brown.webp",
+            "Белый": "white.webp",
+        }},
+    "GS3": {
+        "folder": "gs3",
+        "color": {
+            "Синий": "blue.webp",
+            "Серый": "gray.webp",
+            "Графитовый": "grey-graphite.webp",
+            "Графеновый серый": "grey-graphite.webp",
+            "Серебристый": "silver.webp",
+            "Серебряный": "silver.webp",
             "Белый": "white.webp",
         }},
     "GS5": {
         "folder": "gs5",
         "color": {
             "Черный": "black.webp",
+            "Чёрный": "black.webp",
             "Коричневый": "brown.webp",
             "Серый": "gray.webp",
             "Голубой": "ice-blue.webp",
@@ -27,6 +40,7 @@ model_mapping = {
         "folder": "gs8",
         "color": {
             "Черный": "black.webp",
+            "Чёрный": "black.webp",
             "Синий": "blue.webp",
             "Коричневый": "brown.webp",
             "Серый": "gray.webp",
@@ -37,8 +51,10 @@ model_mapping = {
         "folder": "gs8ii",
         "color": {
             "Черный": "black.webp",
+            "Чёрный": "black.webp",
             "Серый": "gray.webp",
             "Зеленый": "green.webp",
+            "Зелёный": "green.webp",
             "Серебристый": "silver.webp",
             "Серебряный": "silver.webp",
             "Белый": "white.webp",
@@ -47,8 +63,10 @@ model_mapping = {
         "folder": "m8",
         "color": {
             "Черный": "black.webp",
+            "Чёрный": "black.webp",
             "Синий": "blue.webp",
             "Зеленый": "green.webp",
+            "Зелёный": "green.webp",
             "Золотой": "gold.webp",
             "Белый": "white.webp",
         }},
