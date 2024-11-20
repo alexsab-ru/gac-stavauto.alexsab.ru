@@ -505,75 +505,6 @@
 			<tradein_discount>200000</tradein_discount>
 			<max_discount>250000</max_discount>
 			<currency>RUR</currency>
-			<vin>LMGHT1L54R3072865</vin>
-			<description>GAC GS3 GB-R – это воплощение стиля и мощи в каждом элементе! Его графеновый серый цвет создаёт утончённый и современный облик, подчеркивающий смелую геометрию кузова. В этой комплектации автомобиль становится ещё более динамичным и технологичным, а черный салон с яркими синими вставками добавляет уникального характера и премиальности.
-
-Преимущества комплектации GB-R и дизайна GAC GS3:
-
-- Двигатель с увеличенной производительностью 1.5 литра (170 л.с.), который гарантирует отличную управляемость и экономичность при любой поездке
-- Современная мультимедийная система с сенсорным экраном, оснащённая самыми последними функциями для вашего комфорта
-- Камера заднего вида и продуманная геометрия кузова для лёгкой и безопасной парковки в любых условиях
-- Круиз-контроль, который сделает дальние поездки комфортными и экономичными
-- Эффектная решётка радиатора и мощные светодиодные фары, подчеркивающие агрессивный, но элегантный характер автомобиля
-
-Интерьер:
-
-- Черный салон с синими вставками придаёт интерьеру спортивный дух и уникальную атмосферу. Контрастные детали подчёркивают эксклюзивность комплектации GB-R.
-- Качественные материалы отделки обеспечивают комфорт и уют, в то время как синие акценты делают салон современным и запоминающимся.
-
-Преимущества покупки нового автомобиля GAC GS3 GB-R в GАС Центр Кулакова: 
-☑️ Большой выбор автомобилей в наличии на складе 
-☑️ Выдача автомобиля в день покупки 
-☑️ Гарантия на автомобиль 5 лет или 150 000 км (в зависимости от того, что наступит раньше) 
-☑️ НДС и уникальные условия покупки в лизинг 
-☑️ Самые выгодные предложения по обмену вашего автомобиля 
-☑️ Дополнительные бонусы при обмене автомобилей с пробегом премиальных брендов (Audi, BMW, Mercedes, Lexus, Porsche, Land Rover, Jaguar, Volvo, Infiniti)
-
-Лучшие программы по кредитованию и страхованию в GАС Центр Кулакова: 
-☑️ Дистанционная подача заявок на кредит и страхование 
-☑️ Выбор выгодной программы кредитования из широкого списка банков 
-☑️ Полное сопровождение сделки нашими профессионалами
-
-⭐️Производитель: GAC Motor Corporation – один из крупнейших автопроизводителей Китая, сотрудничает с мировыми брендами Toyota, Honda и Mitsubishi. 
-⭐️GАС Центр Кулакова – это место, где стиль, технологии и индивидуальный подход создают идеальное сочетание для каждого клиента. 
-⭐️Выбирайте автомобиль, который идеально соответствует вашим желаниям и стилю, в GАС Центр Кулакова!
-
-Ждём вас в нашем дилерском центре: г. Ставрополь, пр-т Кулакова 32а</description>
-			<images>
-				<image>https://photo.toyotasever.ru/LMGHT1L54R3072865/6180c5eb02f098e33def615db3824a0d.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L54R3072865/af54a9784ce21a36ca556c490d265147.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L54R3072865/d7ea39e28ab57b6fb7fa64eca961c9aa.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L54R3072865/77eb7fc4a98a1259d2a3188f65aebf95.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L54R3072865/a2a85a2e6b91540caabd158e60b010a2.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L54R3072865/94bd69ee8eb24c4144a9c9eefbe617b2.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L54R3072865/8fbe0d11755cfe74045ffcd33251a43f.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L54R3072865/ecbd82aa1e52014b07c55e28fa6c7128.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L54R3072865/ab42d20644d4207a2c99a5dd838cf9a1.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L54R3072865/6c7966a6dff8c83670052b297e22a4ee.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L54R3072865/dfcc21f6d3e4a82d4a3199c633f1c955.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L54R3072865/80178c4201be18068700e60a054ca60d.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L54R3072865/8c72aa03e5dc77917ce4881d9646ef01.jpg</image>
-			</images>
-		<url>https://gac-stavauto.alexsab.ru/cars/gac-gs3-15-amt-170-лс-gb-r-серый-2024/</url></car>
-		<car>
-			<mark_id>GAC</mark_id>
-			<folder_id>GS3</folder_id>
-			<modification_id>1.5 AMT (170 л.с.)</modification_id>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<complectation_name>GB-R</complectation_name>
-			<wheel>левый</wheel>
-			<color>Серый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<owners_number>Не было владельцев</owners_number>
-			<year>2024</year>
-			<price>2599000</price>
-			<credit_discount>50000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>200000</tradein_discount>
-			<max_discount>250000</max_discount>
-			<currency>RUR</currency>
 			<vin>LMGHT1L50R3072877</vin>
 			<description>GAC GS3 GB-R – это воплощение стиля и мощи в каждом элементе! Его графеновый серый цвет создаёт утончённый и современный облик, подчеркивающий смелую геометрию кузова. В этой комплектации автомобиль становится ещё более динамичным и технологичным, а черный салон с яркими синими вставками добавляет уникального характера и премиальности.
 
@@ -626,6 +557,75 @@
 				<image>https://photo.toyotasever.ru/LMGHT1L50R3072877/a4bea34908db6ec4b6a1c89355162827.jpg</image>
 				<image>https://photo.toyotasever.ru/LMGHT1L50R3072877/8964971e627140289dfa1a1b87551b17.jpg</image>
 				<image>https://photo.toyotasever.ru/LMGHT1L50R3072877/0bd24fc4c483ba1120ebeb7e3b052b56.jpg</image>
+			</images>
+		<url>https://gac-stavauto.alexsab.ru/cars/gac-gs3-15-amt-170-лс-gb-r-серый-2024/</url></car>
+		<car>
+			<mark_id>GAC</mark_id>
+			<folder_id>GS3</folder_id>
+			<modification_id>1.5 AMT (170 л.с.)</modification_id>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<complectation_name>GB-R</complectation_name>
+			<wheel>левый</wheel>
+			<color>Серый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<owners_number>Не было владельцев</owners_number>
+			<year>2024</year>
+			<price>2599000</price>
+			<credit_discount>50000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>200000</tradein_discount>
+			<max_discount>250000</max_discount>
+			<currency>RUR</currency>
+			<vin>LMGHT1L54R3072865</vin>
+			<description>GAC GS3 GB-R – это воплощение стиля и мощи в каждом элементе! Его графеновый серый цвет создаёт утончённый и современный облик, подчеркивающий смелую геометрию кузова. В этой комплектации автомобиль становится ещё более динамичным и технологичным, а черный салон с яркими синими вставками добавляет уникального характера и премиальности.
+
+Преимущества комплектации GB-R и дизайна GAC GS3:
+
+- Двигатель с увеличенной производительностью 1.5 литра (170 л.с.), который гарантирует отличную управляемость и экономичность при любой поездке
+- Современная мультимедийная система с сенсорным экраном, оснащённая самыми последними функциями для вашего комфорта
+- Камера заднего вида и продуманная геометрия кузова для лёгкой и безопасной парковки в любых условиях
+- Круиз-контроль, который сделает дальние поездки комфортными и экономичными
+- Эффектная решётка радиатора и мощные светодиодные фары, подчеркивающие агрессивный, но элегантный характер автомобиля
+
+Интерьер:
+
+- Черный салон с синими вставками придаёт интерьеру спортивный дух и уникальную атмосферу. Контрастные детали подчёркивают эксклюзивность комплектации GB-R.
+- Качественные материалы отделки обеспечивают комфорт и уют, в то время как синие акценты делают салон современным и запоминающимся.
+
+Преимущества покупки нового автомобиля GAC GS3 GB-R в GАС Центр Кулакова: 
+☑️ Большой выбор автомобилей в наличии на складе 
+☑️ Выдача автомобиля в день покупки 
+☑️ Гарантия на автомобиль 5 лет или 150 000 км (в зависимости от того, что наступит раньше) 
+☑️ НДС и уникальные условия покупки в лизинг 
+☑️ Самые выгодные предложения по обмену вашего автомобиля 
+☑️ Дополнительные бонусы при обмене автомобилей с пробегом премиальных брендов (Audi, BMW, Mercedes, Lexus, Porsche, Land Rover, Jaguar, Volvo, Infiniti)
+
+Лучшие программы по кредитованию и страхованию в GАС Центр Кулакова: 
+☑️ Дистанционная подача заявок на кредит и страхование 
+☑️ Выбор выгодной программы кредитования из широкого списка банков 
+☑️ Полное сопровождение сделки нашими профессионалами
+
+⭐️Производитель: GAC Motor Corporation – один из крупнейших автопроизводителей Китая, сотрудничает с мировыми брендами Toyota, Honda и Mitsubishi. 
+⭐️GАС Центр Кулакова – это место, где стиль, технологии и индивидуальный подход создают идеальное сочетание для каждого клиента. 
+⭐️Выбирайте автомобиль, который идеально соответствует вашим желаниям и стилю, в GАС Центр Кулакова!
+
+Ждём вас в нашем дилерском центре: г. Ставрополь, пр-т Кулакова 32а</description>
+			<images>
+				<image>https://photo.toyotasever.ru/LMGHT1L54R3072865/6180c5eb02f098e33def615db3824a0d.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L54R3072865/af54a9784ce21a36ca556c490d265147.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L54R3072865/d7ea39e28ab57b6fb7fa64eca961c9aa.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L54R3072865/77eb7fc4a98a1259d2a3188f65aebf95.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L54R3072865/a2a85a2e6b91540caabd158e60b010a2.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L54R3072865/94bd69ee8eb24c4144a9c9eefbe617b2.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L54R3072865/8fbe0d11755cfe74045ffcd33251a43f.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L54R3072865/ecbd82aa1e52014b07c55e28fa6c7128.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L54R3072865/ab42d20644d4207a2c99a5dd838cf9a1.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L54R3072865/6c7966a6dff8c83670052b297e22a4ee.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L54R3072865/dfcc21f6d3e4a82d4a3199c633f1c955.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L54R3072865/80178c4201be18068700e60a054ca60d.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L54R3072865/8c72aa03e5dc77917ce4881d9646ef01.jpg</image>
 			</images>
 		<url>https://gac-stavauto.alexsab.ru/cars/gac-gs3-15-amt-170-лс-gb-r-серый-2024/</url></car>
 		<car>
@@ -884,61 +884,6 @@
 			<tradein_discount>200000</tradein_discount>
 			<max_discount>250000</max_discount>
 			<currency>RUR</currency>
-			<vin>LMGHT1L85R3088292</vin>
-			<description>GАС Центр Кулакова – официальный дилер GAС в Ставрополе 
-
-Большой склад автомобилей в наличии!
-
-Пpеимущеcтва покупки нoвогo aвтoмoбиля в GAС Центр Кулакова:
-☑️ Бoльшoй выбор aвтoмoбилeй в нaличии на нашем складе
-☑️ Выдaча aвтoмобиля дeнь в дeнь
-☑️ Гарантия нa aвтoмoбили 5 лет или 150 000 км.(в зависимости от того что наступит ранее)
-☑️ НДС и индивидуальныe услoвия пoкупки в Лизинг
-☑️ Лучшиe услoвия пo обмену автo
-☑️ Дoпoлнитeльные уcлoвия пpи oбменe aвтомобилей с пробегом Премиальных брендов (Аudi, ВМW, Меrсеdеs, Lехus, Роrsсhе, Lаnd Rоvеr, Jаguаr, Vоlvо, Infiniti)
-
-Выгодные программы по кредитованию и страхованию в GАС Центр Кулакова:
-☑️ Дистанционная подача заявки на кредитование/страхование
-☑️ Возможность выбора программы кредитования (Вы сами выбираете банк с самыми подходящими для Вас условиями).
-☑️ Полное сопровождение сделки нашими специалистами
-
-⭐️Производитель: GАС Моtоr Соrроrаtiоn - один из крупнейших автомобилестроительных компаний Китая и мира, в структуру которой входят заводы и бренды Тоyоtа, Ноndа, Мitsubishi в Китае.
-⭐️Выбирайте автомобиль который подходит именно для Вас в GАС Центр Кулакова 
-⭐️GАС Центр Кулакова – это индивидуальный подход и специальные условия для каждого! 
-
-Ждем Вас в дилерском центре GАС Центр Кулакова по адресу г.Ставрополь, пр-т.Кулакова 32а</description>
-			<images>
-				<image>https://photo.toyotasever.ru/LMGHT1L85R3088292/c8ad361e855bf73172fe3d4c423ad7ca.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L85R3088292/d589fe9d0b17efd036c1caa31fc48501.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L85R3088292/dfa8a83f6cc552aaaf5fa1b779f325c0.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L85R3088292/94c5fd6916e07b820fd23a98c07ffa98.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L85R3088292/5aa3206baa44ded2fa427b96a95ea20b.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L85R3088292/62aaa0fa579373d175f79528c8ecf996.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L85R3088292/2c566e76e85cf834409bd81d0fcbd8a0.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L85R3088292/f9d8982b054cddec8d551982998f3fd4.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L85R3088292/b84ef3754ff74aa674bb9b3f4a98c994.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L85R3088292/217773cc9a367b3b727c484dd3f2fba4.jpg</image>
-			</images>
-		<url>https://gac-stavauto.alexsab.ru/cars/gac-gs3-15-amt-170-лс-gl-белый-2024/</url></car>
-		<car>
-			<mark_id>GAC</mark_id>
-			<folder_id>GS3</folder_id>
-			<modification_id>1.5 AMT (170 л.с.)</modification_id>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<complectation_name>GL</complectation_name>
-			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<owners_number>Не было владельцев</owners_number>
-			<year>2024</year>
-			<price>2749000</price>
-			<credit_discount>50000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>200000</tradein_discount>
-			<max_discount>250000</max_discount>
-			<currency>RUR</currency>
 			<vin>LMGHT1L85R3087739</vin>
 			<description>GАС Центр Кулакова – официальный дилер GAС в Ставрополе 
 
@@ -973,6 +918,61 @@
 				<image>https://photo.toyotasever.ru/LMGHT1L85R3087739/11132d40defe15dba5c66dcecb6790a0.jpg</image>
 				<image>https://photo.toyotasever.ru/LMGHT1L85R3087739/a615afe962486ffe58d4cce45d7af128.jpg</image>
 				<image>https://photo.toyotasever.ru/LMGHT1L85R3087739/ca6be68694ce0fe8d2d1b32a5b631256.jpg</image>
+			</images>
+		<url>https://gac-stavauto.alexsab.ru/cars/gac-gs3-15-amt-170-лс-gl-белый-2024/</url></car>
+		<car>
+			<mark_id>GAC</mark_id>
+			<folder_id>GS3</folder_id>
+			<modification_id>1.5 AMT (170 л.с.)</modification_id>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<complectation_name>GL</complectation_name>
+			<wheel>левый</wheel>
+			<color>Белый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<owners_number>Не было владельцев</owners_number>
+			<year>2024</year>
+			<price>2749000</price>
+			<credit_discount>50000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>200000</tradein_discount>
+			<max_discount>250000</max_discount>
+			<currency>RUR</currency>
+			<vin>LMGHT1L85R3088292</vin>
+			<description>GАС Центр Кулакова – официальный дилер GAС в Ставрополе 
+
+Большой склад автомобилей в наличии!
+
+Пpеимущеcтва покупки нoвогo aвтoмoбиля в GAС Центр Кулакова:
+☑️ Бoльшoй выбор aвтoмoбилeй в нaличии на нашем складе
+☑️ Выдaча aвтoмобиля дeнь в дeнь
+☑️ Гарантия нa aвтoмoбили 5 лет или 150 000 км.(в зависимости от того что наступит ранее)
+☑️ НДС и индивидуальныe услoвия пoкупки в Лизинг
+☑️ Лучшиe услoвия пo обмену автo
+☑️ Дoпoлнитeльные уcлoвия пpи oбменe aвтомобилей с пробегом Премиальных брендов (Аudi, ВМW, Меrсеdеs, Lехus, Роrsсhе, Lаnd Rоvеr, Jаguаr, Vоlvо, Infiniti)
+
+Выгодные программы по кредитованию и страхованию в GАС Центр Кулакова:
+☑️ Дистанционная подача заявки на кредитование/страхование
+☑️ Возможность выбора программы кредитования (Вы сами выбираете банк с самыми подходящими для Вас условиями).
+☑️ Полное сопровождение сделки нашими специалистами
+
+⭐️Производитель: GАС Моtоr Соrроrаtiоn - один из крупнейших автомобилестроительных компаний Китая и мира, в структуру которой входят заводы и бренды Тоyоtа, Ноndа, Мitsubishi в Китае.
+⭐️Выбирайте автомобиль который подходит именно для Вас в GАС Центр Кулакова 
+⭐️GАС Центр Кулакова – это индивидуальный подход и специальные условия для каждого! 
+
+Ждем Вас в дилерском центре GАС Центр Кулакова по адресу г.Ставрополь, пр-т.Кулакова 32а</description>
+			<images>
+				<image>https://photo.toyotasever.ru/LMGHT1L85R3088292/c8ad361e855bf73172fe3d4c423ad7ca.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L85R3088292/d589fe9d0b17efd036c1caa31fc48501.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L85R3088292/dfa8a83f6cc552aaaf5fa1b779f325c0.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L85R3088292/94c5fd6916e07b820fd23a98c07ffa98.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L85R3088292/5aa3206baa44ded2fa427b96a95ea20b.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L85R3088292/62aaa0fa579373d175f79528c8ecf996.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L85R3088292/2c566e76e85cf834409bd81d0fcbd8a0.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L85R3088292/f9d8982b054cddec8d551982998f3fd4.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L85R3088292/b84ef3754ff74aa674bb9b3f4a98c994.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L85R3088292/217773cc9a367b3b727c484dd3f2fba4.jpg</image>
 			</images>
 		<url>https://gac-stavauto.alexsab.ru/cars/gac-gs3-15-amt-170-лс-gl-белый-2024/</url></car>
 		<car>
@@ -2393,6 +2393,67 @@
 			<tradein_discount>300000</tradein_discount>
 			<max_discount>300000</max_discount>
 			<currency>RUR</currency>
+			<vin>LMGJU3G88R1036350</vin>
+			<description>GАС Центр Кулакова – официальный дилер GAС в Ставрополе 
+
+Большой склад автомобилей в наличии!
+
+Пpеимущеcтва покупки нoвогo aвтoмoбиля в GAС Центр Кулакова:
+☑️ Бoльшoй выбор aвтoмoбилeй в нaличии на нашем складе
+☑️ Выдaча aвтoмобиля дeнь в дeнь
+☑️ Гарантия нa aвтoмoбили 5 лет или 150 000 км.(в зависимости от того что наступит ранее)
+☑️ НДС и индивидуальныe услoвия пoкупки в Лизинг
+☑️ Лучшиe услoвия пo обмену автo
+☑️ Дoпoлнитeльные уcлoвия пpи oбменe aвтомобилей с пробегом Премиальных брендов (Аudi, ВМW, Меrсеdеs, Lехus, Роrsсhе, Lаnd Rоvеr, Jаguаr, Vоlvо, Infiniti)
+
+Выгодные программы по кредитованию и страхованию в GАС Центр Кулакова:
+☑️ Дистанционная подача заявки на кредитование/страхование
+☑️ Возможность выбора программы кредитования (Вы сами выбираете банк с самыми подходящими для Вас условиями).
+☑️ Полное сопровождение сделки нашими специалистами
+
+⭐️Производитель: GАС Моtоr Соrроrаtiоn - один из крупнейших автомобилестроительных компаний Китая и мира, в структуру которой входят заводы и бренды Тоyоtа, Ноndа, Мitsubishi в Китае.
+⭐️Выбирайте автомобиль который подходит именно для Вас в GАС Центр Кулакова 
+⭐️GАС Центр Кулакова – это индивидуальный подход и специальные условия для каждого! 
+
+Ждем Вас в дилерском центре GАС Центр Кулакова по адресу г.Ставрополь, пр-т.Кулакова 32а</description>
+			<images>
+				<image>https://photo.toyotasever.ru/LMGJU3G88R1036350/d6f05e75de08585ffce3502a37a4b42e.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G88R1036350/72f4996c73eb1e252e6847c531833bf2.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G88R1036350/0bdbedbf9d2a3fa6e249857c8f336c81.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G88R1036350/8468f6847168b0d8a9697d6af932d07c.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G88R1036350/6617793802ae9b8a7a866be46f62c671.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G88R1036350/5ba8403e0d91b23d2a579083fb2531e7.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G88R1036350/1cc5831b5acf304c3c0bd749567aea8a.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G88R1036350/3f58c1129839edaeb89191d9e88a9198.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G88R1036350/66cdf0ad6d7e2893942451121c55b6fb.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G88R1036350/cf795eaaa6dfbf10efe2a59ad34a86f8.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G88R1036350/d7dd73a7b85015dde32fff4ed39860a7.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G88R1036350/e1202e62fc66f97f493fd009d863cc24.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G88R1036350/8522f59e6272e1601143cb17e19068aa.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G88R1036350/e24870be5cc1c1ab9de23af15e1a5807.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G88R1036350/07e3a1cebec2c494c377636217a37e8c.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G88R1036350/88869dcc242af79051d5b96bca538579.jpg</image>
+			</images>
+		<url>https://gac-stavauto.alexsab.ru/cars/gac-gs8-ii-20-at-231-лс-4wd-gx-premium-белый-2024/</url></car>
+		<car>
+			<mark_id>GAC</mark_id>
+			<folder_id>GS8, II</folder_id>
+			<modification_id>2.0 AT (231 л.с.) 4WD</modification_id>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<complectation_name>GX Premium</complectation_name>
+			<wheel>левый</wheel>
+			<color>Белый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<owners_number>Не было владельцев</owners_number>
+			<year>2024</year>
+			<price>4749000</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>300000</tradein_discount>
+			<max_discount>300000</max_discount>
+			<currency>RUR</currency>
 			<vin>LMGJU3G87R1036405</vin>
 			<description>GАС Центр Кулакова – официальный дилер GAС в Ставрополе 
 
@@ -2435,67 +2496,6 @@
 				<image>https://photo.toyotasever.ru/LMGJU3G87R1036405/08d48b5ef8c805692a0227a47ebc0148.jpg</image>
 			</images>
 		<url>https://gac-stavauto.alexsab.ru/cars/gac-gs8-ii-20-at-231-лс-4wd-gx-premium-белый-2024/</url></car>
-		<car>
-			<mark_id>GAC</mark_id>
-			<folder_id>GS8, II</folder_id>
-			<modification_id>2.0 AT (231 л.с.) 4WD</modification_id>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<complectation_name>GX Premium</complectation_name>
-			<wheel>левый</wheel>
-			<color>Зеленый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<owners_number>Не было владельцев</owners_number>
-			<year>2024</year>
-			<price>4749000</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>300000</tradein_discount>
-			<max_discount>300000</max_discount>
-			<currency>RUR</currency>
-			<vin>LMGJU3G85R1031851</vin>
-			<description>GАС Центр Кулакова – официальный дилер GAС в Ставрополе 
-
-Большой склад автомобилей в наличии!
-
-Пpеимущеcтва покупки нoвогo aвтoмoбиля в GAС Центр Кулакова:
-☑️ Бoльшoй выбор aвтoмoбилeй в нaличии на нашем складе
-☑️ Выдaча aвтoмобиля дeнь в дeнь
-☑️ Гарантия нa aвтoмoбили 5 лет или 150 000 км.(в зависимости от того что наступит ранее)
-☑️ НДС и индивидуальныe услoвия пoкупки в Лизинг
-☑️ Лучшиe услoвия пo обмену автo
-☑️ Дoпoлнитeльные уcлoвия пpи oбменe aвтомобилей с пробегом Премиальных брендов (Аudi, ВМW, Меrсеdеs, Lехus, Роrsсhе, Lаnd Rоvеr, Jаguаr, Vоlvо, Infiniti)
-
-Выгодные программы по кредитованию и страхованию в GАС Центр Кулакова:
-☑️ Дистанционная подача заявки на кредитование/страхование
-☑️ Возможность выбора программы кредитования (Вы сами выбираете банк с самыми подходящими для Вас условиями).
-☑️ Полное сопровождение сделки нашими специалистами
-
-⭐️Производитель: GАС Моtоr Соrроrаtiоn - один из крупнейших автомобилестроительных компаний Китая и мира, в структуру которой входят заводы и бренды Тоyоtа, Ноndа, Мitsubishi в Китае.
-⭐️Выбирайте автомобиль который подходит именно для Вас в GАС Центр Кулакова 
-⭐️GАС Центр Кулакова – это индивидуальный подход и специальные условия для каждого! 
-
-Ждем Вас в дилерском центре GАС Центр Кулакова по адресу г.Ставрополь, пр-т.Кулакова 32а</description>
-			<images>
-				<image>https://photo.toyotasever.ru/LMGJU3G85R1031851/986c948a1dcf3d26d9bf5c159d58c344.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G85R1031851/2a37a916dd210a97e237e14d36ae887e.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G85R1031851/21237d194d940f83063bc25849eec10c.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G85R1031851/185027ae860c1f3c7cde580bd4310f6c.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G85R1031851/907db9b51a9438cd48522020912aab64.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G85R1031851/3ca82bd4344c30c87b28242487cbd8fd.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G85R1031851/04ab9502a7b494933b707458d7ffab6f.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G85R1031851/84a93c7c765954bbf24ad4c414971bb7.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G85R1031851/aa8d6d423d2278f20e0b4eb0b680917e.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G85R1031851/a7622d603d36bb55e4802455023a6e52.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G85R1031851/61dfae9eb8e4fb85c8c25d49f422e06b.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G85R1031851/b540d3de629e49f3a4144edae527cf6e.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G85R1031851/3ae9a8b39220ac49fcecc639d2a15ff4.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G85R1031851/ebd6a10cd667def139ead590bc421eae.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G85R1031851/eb45721ab92172b7533ff6c34227431e.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G85R1031851/d17ae56cfae5aa360d70f145cc1931b1.jpg</image>
-			</images>
-		<url>https://gac-stavauto.alexsab.ru/cars/gac-gs8-ii-20-at-231-лс-4wd-gx-premium-зеленый-2024/</url></car>
 		<car>
 			<mark_id>GAC</mark_id>
 			<folder_id>GS8, II</folder_id>
@@ -2732,67 +2732,6 @@
 			<body_type>Внедорожник 5 дв.</body_type>
 			<complectation_name>GX Premium</complectation_name>
 			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<owners_number>Не было владельцев</owners_number>
-			<year>2024</year>
-			<price>4749000</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>300000</tradein_discount>
-			<max_discount>300000</max_discount>
-			<currency>RUR</currency>
-			<vin>LMGJU3G88R1036350</vin>
-			<description>GАС Центр Кулакова – официальный дилер GAС в Ставрополе 
-
-Большой склад автомобилей в наличии!
-
-Пpеимущеcтва покупки нoвогo aвтoмoбиля в GAС Центр Кулакова:
-☑️ Бoльшoй выбор aвтoмoбилeй в нaличии на нашем складе
-☑️ Выдaча aвтoмобиля дeнь в дeнь
-☑️ Гарантия нa aвтoмoбили 5 лет или 150 000 км.(в зависимости от того что наступит ранее)
-☑️ НДС и индивидуальныe услoвия пoкупки в Лизинг
-☑️ Лучшиe услoвия пo обмену автo
-☑️ Дoпoлнитeльные уcлoвия пpи oбменe aвтомобилей с пробегом Премиальных брендов (Аudi, ВМW, Меrсеdеs, Lехus, Роrsсhе, Lаnd Rоvеr, Jаguаr, Vоlvо, Infiniti)
-
-Выгодные программы по кредитованию и страхованию в GАС Центр Кулакова:
-☑️ Дистанционная подача заявки на кредитование/страхование
-☑️ Возможность выбора программы кредитования (Вы сами выбираете банк с самыми подходящими для Вас условиями).
-☑️ Полное сопровождение сделки нашими специалистами
-
-⭐️Производитель: GАС Моtоr Соrроrаtiоn - один из крупнейших автомобилестроительных компаний Китая и мира, в структуру которой входят заводы и бренды Тоyоtа, Ноndа, Мitsubishi в Китае.
-⭐️Выбирайте автомобиль который подходит именно для Вас в GАС Центр Кулакова 
-⭐️GАС Центр Кулакова – это индивидуальный подход и специальные условия для каждого! 
-
-Ждем Вас в дилерском центре GАС Центр Кулакова по адресу г.Ставрополь, пр-т.Кулакова 32а</description>
-			<images>
-				<image>https://photo.toyotasever.ru/LMGJU3G88R1036350/d6f05e75de08585ffce3502a37a4b42e.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G88R1036350/72f4996c73eb1e252e6847c531833bf2.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G88R1036350/0bdbedbf9d2a3fa6e249857c8f336c81.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G88R1036350/8468f6847168b0d8a9697d6af932d07c.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G88R1036350/6617793802ae9b8a7a866be46f62c671.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G88R1036350/5ba8403e0d91b23d2a579083fb2531e7.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G88R1036350/1cc5831b5acf304c3c0bd749567aea8a.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G88R1036350/3f58c1129839edaeb89191d9e88a9198.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G88R1036350/66cdf0ad6d7e2893942451121c55b6fb.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G88R1036350/cf795eaaa6dfbf10efe2a59ad34a86f8.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G88R1036350/d7dd73a7b85015dde32fff4ed39860a7.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G88R1036350/e1202e62fc66f97f493fd009d863cc24.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G88R1036350/8522f59e6272e1601143cb17e19068aa.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G88R1036350/e24870be5cc1c1ab9de23af15e1a5807.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G88R1036350/07e3a1cebec2c494c377636217a37e8c.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G88R1036350/88869dcc242af79051d5b96bca538579.jpg</image>
-			</images>
-		<url>https://gac-stavauto.alexsab.ru/cars/gac-gs8-ii-20-at-231-лс-4wd-gx-premium-белый-2024/</url></car>
-		<car>
-			<mark_id>GAC</mark_id>
-			<folder_id>GS8, II</folder_id>
-			<modification_id>2.0 AT (231 л.с.) 4WD</modification_id>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<complectation_name>GX Premium</complectation_name>
-			<wheel>левый</wheel>
 			<color>Черный</color>
 			<metallic>нет</metallic>
 			<availability>в наличии</availability>
@@ -2805,7 +2744,7 @@
 			<tradein_discount>300000</tradein_discount>
 			<max_discount>300000</max_discount>
 			<currency>RUR</currency>
-			<vin>LMGJU3G81R1040126</vin>
+			<vin>LMGJU3G89R1036566</vin>
 			<description>GАС Центр Кулакова – официальный дилер GAС в Ставрополе 
 
 Большой склад автомобилей в наличии!
@@ -2829,18 +2768,79 @@
 
 Ждем Вас в дилерском центре GАС Центр Кулакова по адресу г.Ставрополь, пр-т.Кулакова 32а</description>
 			<images>
-				<image>https://photo.toyotasever.ru/LMGJU3G81R1040126/b5acd93e2cfb083a3e4bdf94a846ffc7.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G81R1040126/05b3e6f509baacdf7a455106dd38b6ae.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G81R1040126/465c9894b2bc314f5d001bfd583fc3a8.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G81R1040126/0a1cafbb46acb2c3b4a4fa005ae60fe2.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G81R1040126/6c18932ce43879cbadb2465ac2bff294.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G81R1040126/6d1e5eb751be633268f16aa09b369f04.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G81R1040126/646e57441e55095ea3be3fa3f514eb8e.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G81R1040126/c46e7acc54ca8c073605348535e8b204.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G81R1040126/adb485e5b92045d0170dee95505302f7.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G81R1040126/4d5a129a2b3953cad8d3b89789eeb335.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G89R1036566/b077c9932efd5a242249b3aa324adaa3.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G89R1036566/2db922c3c886fd4897b20fd4eb9f90ff.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G89R1036566/01b01329fde2df6d8c05239631381f06.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G89R1036566/0af87adb8765e9963fbefbba940ca121.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G89R1036566/4c08e0e6e435793aceecdbc882bec1be.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G89R1036566/d1c2046a229f1ce3286aca92214cb3df.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G89R1036566/04231d37800b828a9ac0d7a0ed4d9420.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G89R1036566/30ea8b9328642e214418d93fd0f2e902.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G89R1036566/d6a5f019dbf1d665267dc67dec2d34ee.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G89R1036566/d7049569d53633f339e8c8fffeca746b.jpg</image>
 			</images>
 		<url>https://gac-stavauto.alexsab.ru/cars/gac-gs8-ii-20-at-231-лс-4wd-gx-premium-черный-2024/</url></car>
+		<car>
+			<mark_id>GAC</mark_id>
+			<folder_id>GS8, II</folder_id>
+			<modification_id>2.0 AT (231 л.с.) 4WD</modification_id>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<complectation_name>GX Premium</complectation_name>
+			<wheel>левый</wheel>
+			<color>Зеленый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<owners_number>Не было владельцев</owners_number>
+			<year>2024</year>
+			<price>4749000</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>300000</tradein_discount>
+			<max_discount>300000</max_discount>
+			<currency>RUR</currency>
+			<vin>LMGJU3G85R1031851</vin>
+			<description>GАС Центр Кулакова – официальный дилер GAС в Ставрополе 
+
+Большой склад автомобилей в наличии!
+
+Пpеимущеcтва покупки нoвогo aвтoмoбиля в GAС Центр Кулакова:
+☑️ Бoльшoй выбор aвтoмoбилeй в нaличии на нашем складе
+☑️ Выдaча aвтoмобиля дeнь в дeнь
+☑️ Гарантия нa aвтoмoбили 5 лет или 150 000 км.(в зависимости от того что наступит ранее)
+☑️ НДС и индивидуальныe услoвия пoкупки в Лизинг
+☑️ Лучшиe услoвия пo обмену автo
+☑️ Дoпoлнитeльные уcлoвия пpи oбменe aвтомобилей с пробегом Премиальных брендов (Аudi, ВМW, Меrсеdеs, Lехus, Роrsсhе, Lаnd Rоvеr, Jаguаr, Vоlvо, Infiniti)
+
+Выгодные программы по кредитованию и страхованию в GАС Центр Кулакова:
+☑️ Дистанционная подача заявки на кредитование/страхование
+☑️ Возможность выбора программы кредитования (Вы сами выбираете банк с самыми подходящими для Вас условиями).
+☑️ Полное сопровождение сделки нашими специалистами
+
+⭐️Производитель: GАС Моtоr Соrроrаtiоn - один из крупнейших автомобилестроительных компаний Китая и мира, в структуру которой входят заводы и бренды Тоyоtа, Ноndа, Мitsubishi в Китае.
+⭐️Выбирайте автомобиль который подходит именно для Вас в GАС Центр Кулакова 
+⭐️GАС Центр Кулакова – это индивидуальный подход и специальные условия для каждого! 
+
+Ждем Вас в дилерском центре GАС Центр Кулакова по адресу г.Ставрополь, пр-т.Кулакова 32а</description>
+			<images>
+				<image>https://photo.toyotasever.ru/LMGJU3G85R1031851/986c948a1dcf3d26d9bf5c159d58c344.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G85R1031851/2a37a916dd210a97e237e14d36ae887e.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G85R1031851/21237d194d940f83063bc25849eec10c.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G85R1031851/185027ae860c1f3c7cde580bd4310f6c.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G85R1031851/907db9b51a9438cd48522020912aab64.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G85R1031851/3ca82bd4344c30c87b28242487cbd8fd.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G85R1031851/04ab9502a7b494933b707458d7ffab6f.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G85R1031851/84a93c7c765954bbf24ad4c414971bb7.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G85R1031851/aa8d6d423d2278f20e0b4eb0b680917e.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G85R1031851/a7622d603d36bb55e4802455023a6e52.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G85R1031851/61dfae9eb8e4fb85c8c25d49f422e06b.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G85R1031851/b540d3de629e49f3a4144edae527cf6e.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G85R1031851/3ae9a8b39220ac49fcecc639d2a15ff4.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G85R1031851/ebd6a10cd667def139ead590bc421eae.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G85R1031851/eb45721ab92172b7533ff6c34227431e.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G85R1031851/d17ae56cfae5aa360d70f145cc1931b1.jpg</image>
+			</images>
+		<url>https://gac-stavauto.alexsab.ru/cars/gac-gs8-ii-20-at-231-лс-4wd-gx-premium-зеленый-2024/</url></car>
 		<car>
 			<mark_id>GAC</mark_id>
 			<folder_id>GS8, II</folder_id>
@@ -3025,7 +3025,7 @@
 			<tradein_discount>300000</tradein_discount>
 			<max_discount>300000</max_discount>
 			<currency>RUR</currency>
-			<vin>LMGJU3G89R1036566</vin>
+			<vin>LMGJU3G81R1040126</vin>
 			<description>GАС Центр Кулакова – официальный дилер GAС в Ставрополе 
 
 Большой склад автомобилей в наличии!
@@ -3049,16 +3049,16 @@
 
 Ждем Вас в дилерском центре GАС Центр Кулакова по адресу г.Ставрополь, пр-т.Кулакова 32а</description>
 			<images>
-				<image>https://photo.toyotasever.ru/LMGJU3G89R1036566/b077c9932efd5a242249b3aa324adaa3.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G89R1036566/2db922c3c886fd4897b20fd4eb9f90ff.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G89R1036566/01b01329fde2df6d8c05239631381f06.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G89R1036566/0af87adb8765e9963fbefbba940ca121.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G89R1036566/4c08e0e6e435793aceecdbc882bec1be.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G89R1036566/d1c2046a229f1ce3286aca92214cb3df.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G89R1036566/04231d37800b828a9ac0d7a0ed4d9420.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G89R1036566/30ea8b9328642e214418d93fd0f2e902.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G89R1036566/d6a5f019dbf1d665267dc67dec2d34ee.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G89R1036566/d7049569d53633f339e8c8fffeca746b.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G81R1040126/b5acd93e2cfb083a3e4bdf94a846ffc7.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G81R1040126/05b3e6f509baacdf7a455106dd38b6ae.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G81R1040126/465c9894b2bc314f5d001bfd583fc3a8.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G81R1040126/0a1cafbb46acb2c3b4a4fa005ae60fe2.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G81R1040126/6c18932ce43879cbadb2465ac2bff294.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G81R1040126/6d1e5eb751be633268f16aa09b369f04.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G81R1040126/646e57441e55095ea3be3fa3f514eb8e.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G81R1040126/c46e7acc54ca8c073605348535e8b204.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G81R1040126/adb485e5b92045d0170dee95505302f7.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G81R1040126/4d5a129a2b3953cad8d3b89789eeb335.jpg</image>
 			</images>
 		<url>https://gac-stavauto.alexsab.ru/cars/gac-gs8-ii-20-at-231-лс-4wd-gx-premium-черный-2024/</url></car>
 	<car>
@@ -3566,75 +3566,6 @@
 			<tradein_discount>200000</tradein_discount>
 			<max_discount>250000</max_discount>
 			<currency>RUR</currency>
-			<vin>LMGHT1L54R3072866</vin>
-			<description>GAC GS3 GB-R – это воплощение стиля и мощи в каждом элементе! Его графеновый серый цвет создаёт утончённый и современный облик, подчеркивающий смелую геометрию кузова. В этой комплектации автомобиль становится ещё более динамичным и технологичным, а черный салон с яркими синими вставками добавляет уникального характера и премиальности.
-
-Преимущества комплектации GB-R и дизайна GAC GS3:
-
-- Двигатель с увеличенной производительностью 1.5 литра (170 л.с.), который гарантирует отличную управляемость и экономичность при любой поездке
-- Современная мультимедийная система с сенсорным экраном, оснащённая самыми последними функциями для вашего комфорта
-- Камера заднего вида и продуманная геометрия кузова для лёгкой и безопасной парковки в любых условиях
-- Круиз-контроль, который сделает дальние поездки комфортными и экономичными
-- Эффектная решётка радиатора и мощные светодиодные фары, подчеркивающие агрессивный, но элегантный характер автомобиля
-
-Интерьер:
-
-- Черный салон с синими вставками придаёт интерьеру спортивный дух и уникальную атмосферу. Контрастные детали подчёркивают эксклюзивность комплектации GB-R.
-- Качественные материалы отделки обеспечивают комфорт и уют, в то время как синие акценты делают салон современным и запоминающимся.
-
-Преимущества покупки нового автомобиля GAC GS3 GB-R в GАС Центр Кулакова: 
-☑️ Большой выбор автомобилей в наличии на складе 
-☑️ Выдача автомобиля в день покупки 
-☑️ Гарантия на автомобиль 5 лет или 150 000 км (в зависимости от того, что наступит раньше) 
-☑️ НДС и уникальные условия покупки в лизинг 
-☑️ Самые выгодные предложения по обмену вашего автомобиля 
-☑️ Дополнительные бонусы при обмене автомобилей с пробегом премиальных брендов (Audi, BMW, Mercedes, Lexus, Porsche, Land Rover, Jaguar, Volvo, Infiniti)
-
-Лучшие программы по кредитованию и страхованию в GАС Центр Кулакова: 
-☑️ Дистанционная подача заявок на кредит и страхование 
-☑️ Выбор выгодной программы кредитования из широкого списка банков 
-☑️ Полное сопровождение сделки нашими профессионалами
-
-⭐️Производитель: GAC Motor Corporation – один из крупнейших автопроизводителей Китая, сотрудничает с мировыми брендами Toyota, Honda и Mitsubishi. 
-⭐️GАС Центр Кулакова – это место, где стиль, технологии и индивидуальный подход создают идеальное сочетание для каждого клиента. 
-⭐️Выбирайте автомобиль, который идеально соответствует вашим желаниям и стилю, в GАС Центр Кулакова!
-
-Ждём вас в нашем дилерском центре: г. Ставрополь, пр-т Кулакова 32а</description>
-			<images>
-				<image>https://photo.toyotasever.ru/LMGHT1L54R3072865/6180c5eb02f098e33def615db3824a0d.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L54R3072865/af54a9784ce21a36ca556c490d265147.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L54R3072865/d7ea39e28ab57b6fb7fa64eca961c9aa.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L54R3072865/77eb7fc4a98a1259d2a3188f65aebf95.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L54R3072865/a2a85a2e6b91540caabd158e60b010a2.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L54R3072865/94bd69ee8eb24c4144a9c9eefbe617b2.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L54R3072865/8fbe0d11755cfe74045ffcd33251a43f.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L54R3072865/ecbd82aa1e52014b07c55e28fa6c7128.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L54R3072865/ab42d20644d4207a2c99a5dd838cf9a1.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L54R3072865/6c7966a6dff8c83670052b297e22a4ee.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L54R3072865/dfcc21f6d3e4a82d4a3199c633f1c955.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L54R3072865/80178c4201be18068700e60a054ca60d.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L54R3072865/8c72aa03e5dc77917ce4881d9646ef01.jpg</image>
-			</images>
-		<url>https://gac-stavauto.alexsab.ru/cars/gac-gs3-15-amt-170-лс-gb-r-серый-2024/</url></car>
-		<car>
-			<mark_id>GAC</mark_id>
-			<folder_id>GS3</folder_id>
-			<modification_id>1.5 AMT (170 л.с.)</modification_id>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<complectation_name>GB-R</complectation_name>
-			<wheel>левый</wheel>
-			<color>Серый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<owners_number>Не было владельцев</owners_number>
-			<year>2024</year>
-			<price>2599000</price>
-			<credit_discount>50000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>200000</tradein_discount>
-			<max_discount>250000</max_discount>
-			<currency>RUR</currency>
 			<vin>LMGHT1L50R3072878</vin>
 			<description>GAC GS3 GB-R – это воплощение стиля и мощи в каждом элементе! Его графеновый серый цвет создаёт утончённый и современный облик, подчеркивающий смелую геометрию кузова. В этой комплектации автомобиль становится ещё более динамичным и технологичным, а черный салон с яркими синими вставками добавляет уникального характера и премиальности.
 
@@ -3687,6 +3618,75 @@
 				<image>https://photo.toyotasever.ru/LMGHT1L50R3072877/a4bea34908db6ec4b6a1c89355162827.jpg</image>
 				<image>https://photo.toyotasever.ru/LMGHT1L50R3072877/8964971e627140289dfa1a1b87551b17.jpg</image>
 				<image>https://photo.toyotasever.ru/LMGHT1L50R3072877/0bd24fc4c483ba1120ebeb7e3b052b56.jpg</image>
+			</images>
+		<url>https://gac-stavauto.alexsab.ru/cars/gac-gs3-15-amt-170-лс-gb-r-серый-2024/</url></car>
+		<car>
+			<mark_id>GAC</mark_id>
+			<folder_id>GS3</folder_id>
+			<modification_id>1.5 AMT (170 л.с.)</modification_id>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<complectation_name>GB-R</complectation_name>
+			<wheel>левый</wheel>
+			<color>Серый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<owners_number>Не было владельцев</owners_number>
+			<year>2024</year>
+			<price>2599000</price>
+			<credit_discount>50000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>200000</tradein_discount>
+			<max_discount>250000</max_discount>
+			<currency>RUR</currency>
+			<vin>LMGHT1L54R3072866</vin>
+			<description>GAC GS3 GB-R – это воплощение стиля и мощи в каждом элементе! Его графеновый серый цвет создаёт утончённый и современный облик, подчеркивающий смелую геометрию кузова. В этой комплектации автомобиль становится ещё более динамичным и технологичным, а черный салон с яркими синими вставками добавляет уникального характера и премиальности.
+
+Преимущества комплектации GB-R и дизайна GAC GS3:
+
+- Двигатель с увеличенной производительностью 1.5 литра (170 л.с.), который гарантирует отличную управляемость и экономичность при любой поездке
+- Современная мультимедийная система с сенсорным экраном, оснащённая самыми последними функциями для вашего комфорта
+- Камера заднего вида и продуманная геометрия кузова для лёгкой и безопасной парковки в любых условиях
+- Круиз-контроль, который сделает дальние поездки комфортными и экономичными
+- Эффектная решётка радиатора и мощные светодиодные фары, подчеркивающие агрессивный, но элегантный характер автомобиля
+
+Интерьер:
+
+- Черный салон с синими вставками придаёт интерьеру спортивный дух и уникальную атмосферу. Контрастные детали подчёркивают эксклюзивность комплектации GB-R.
+- Качественные материалы отделки обеспечивают комфорт и уют, в то время как синие акценты делают салон современным и запоминающимся.
+
+Преимущества покупки нового автомобиля GAC GS3 GB-R в GАС Центр Кулакова: 
+☑️ Большой выбор автомобилей в наличии на складе 
+☑️ Выдача автомобиля в день покупки 
+☑️ Гарантия на автомобиль 5 лет или 150 000 км (в зависимости от того, что наступит раньше) 
+☑️ НДС и уникальные условия покупки в лизинг 
+☑️ Самые выгодные предложения по обмену вашего автомобиля 
+☑️ Дополнительные бонусы при обмене автомобилей с пробегом премиальных брендов (Audi, BMW, Mercedes, Lexus, Porsche, Land Rover, Jaguar, Volvo, Infiniti)
+
+Лучшие программы по кредитованию и страхованию в GАС Центр Кулакова: 
+☑️ Дистанционная подача заявок на кредит и страхование 
+☑️ Выбор выгодной программы кредитования из широкого списка банков 
+☑️ Полное сопровождение сделки нашими профессионалами
+
+⭐️Производитель: GAC Motor Corporation – один из крупнейших автопроизводителей Китая, сотрудничает с мировыми брендами Toyota, Honda и Mitsubishi. 
+⭐️GАС Центр Кулакова – это место, где стиль, технологии и индивидуальный подход создают идеальное сочетание для каждого клиента. 
+⭐️Выбирайте автомобиль, который идеально соответствует вашим желаниям и стилю, в GАС Центр Кулакова!
+
+Ждём вас в нашем дилерском центре: г. Ставрополь, пр-т Кулакова 32а</description>
+			<images>
+				<image>https://photo.toyotasever.ru/LMGHT1L54R3072865/6180c5eb02f098e33def615db3824a0d.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L54R3072865/af54a9784ce21a36ca556c490d265147.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L54R3072865/d7ea39e28ab57b6fb7fa64eca961c9aa.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L54R3072865/77eb7fc4a98a1259d2a3188f65aebf95.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L54R3072865/a2a85a2e6b91540caabd158e60b010a2.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L54R3072865/94bd69ee8eb24c4144a9c9eefbe617b2.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L54R3072865/8fbe0d11755cfe74045ffcd33251a43f.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L54R3072865/ecbd82aa1e52014b07c55e28fa6c7128.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L54R3072865/ab42d20644d4207a2c99a5dd838cf9a1.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L54R3072865/6c7966a6dff8c83670052b297e22a4ee.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L54R3072865/dfcc21f6d3e4a82d4a3199c633f1c955.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L54R3072865/80178c4201be18068700e60a054ca60d.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L54R3072865/8c72aa03e5dc77917ce4881d9646ef01.jpg</image>
 			</images>
 		<url>https://gac-stavauto.alexsab.ru/cars/gac-gs3-15-amt-170-лс-gb-r-серый-2024/</url></car>
 		<car>
@@ -3945,61 +3945,6 @@
 			<tradein_discount>200000</tradein_discount>
 			<max_discount>250000</max_discount>
 			<currency>RUR</currency>
-			<vin>LMGHT1L85R3088293</vin>
-			<description>GАС Центр Кулакова – официальный дилер GAС в Ставрополе 
-
-Большой склад автомобилей в наличии!
-
-Пpеимущеcтва покупки нoвогo aвтoмoбиля в GAС Центр Кулакова:
-☑️ Бoльшoй выбор aвтoмoбилeй в нaличии на нашем складе
-☑️ Выдaча aвтoмобиля дeнь в дeнь
-☑️ Гарантия нa aвтoмoбили 5 лет или 150 000 км.(в зависимости от того что наступит ранее)
-☑️ НДС и индивидуальныe услoвия пoкупки в Лизинг
-☑️ Лучшиe услoвия пo обмену автo
-☑️ Дoпoлнитeльные уcлoвия пpи oбменe aвтомобилей с пробегом Премиальных брендов (Аudi, ВМW, Меrсеdеs, Lехus, Роrsсhе, Lаnd Rоvеr, Jаguаr, Vоlvо, Infiniti)
-
-Выгодные программы по кредитованию и страхованию в GАС Центр Кулакова:
-☑️ Дистанционная подача заявки на кредитование/страхование
-☑️ Возможность выбора программы кредитования (Вы сами выбираете банк с самыми подходящими для Вас условиями).
-☑️ Полное сопровождение сделки нашими специалистами
-
-⭐️Производитель: GАС Моtоr Соrроrаtiоn - один из крупнейших автомобилестроительных компаний Китая и мира, в структуру которой входят заводы и бренды Тоyоtа, Ноndа, Мitsubishi в Китае.
-⭐️Выбирайте автомобиль который подходит именно для Вас в GАС Центр Кулакова 
-⭐️GАС Центр Кулакова – это индивидуальный подход и специальные условия для каждого! 
-
-Ждем Вас в дилерском центре GАС Центр Кулакова по адресу г.Ставрополь, пр-т.Кулакова 32а</description>
-			<images>
-				<image>https://photo.toyotasever.ru/LMGHT1L85R3088292/c8ad361e855bf73172fe3d4c423ad7ca.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L85R3088292/d589fe9d0b17efd036c1caa31fc48501.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L85R3088292/dfa8a83f6cc552aaaf5fa1b779f325c0.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L85R3088292/94c5fd6916e07b820fd23a98c07ffa98.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L85R3088292/5aa3206baa44ded2fa427b96a95ea20b.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L85R3088292/62aaa0fa579373d175f79528c8ecf996.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L85R3088292/2c566e76e85cf834409bd81d0fcbd8a0.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L85R3088292/f9d8982b054cddec8d551982998f3fd4.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L85R3088292/b84ef3754ff74aa674bb9b3f4a98c994.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L85R3088292/217773cc9a367b3b727c484dd3f2fba4.jpg</image>
-			</images>
-		<url>https://gac-stavauto.alexsab.ru/cars/gac-gs3-15-amt-170-лс-gl-белый-2024/</url></car>
-		<car>
-			<mark_id>GAC</mark_id>
-			<folder_id>GS3</folder_id>
-			<modification_id>1.5 AMT (170 л.с.)</modification_id>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<complectation_name>GL</complectation_name>
-			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<owners_number>Не было владельцев</owners_number>
-			<year>2024</year>
-			<price>2749000</price>
-			<credit_discount>50000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>200000</tradein_discount>
-			<max_discount>250000</max_discount>
-			<currency>RUR</currency>
 			<vin>LMGHT1L85R3087740</vin>
 			<description>GАС Центр Кулакова – официальный дилер GAС в Ставрополе 
 
@@ -4034,6 +3979,61 @@
 				<image>https://photo.toyotasever.ru/LMGHT1L85R3087739/11132d40defe15dba5c66dcecb6790a0.jpg</image>
 				<image>https://photo.toyotasever.ru/LMGHT1L85R3087739/a615afe962486ffe58d4cce45d7af128.jpg</image>
 				<image>https://photo.toyotasever.ru/LMGHT1L85R3087739/ca6be68694ce0fe8d2d1b32a5b631256.jpg</image>
+			</images>
+		<url>https://gac-stavauto.alexsab.ru/cars/gac-gs3-15-amt-170-лс-gl-белый-2024/</url></car>
+		<car>
+			<mark_id>GAC</mark_id>
+			<folder_id>GS3</folder_id>
+			<modification_id>1.5 AMT (170 л.с.)</modification_id>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<complectation_name>GL</complectation_name>
+			<wheel>левый</wheel>
+			<color>Белый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<owners_number>Не было владельцев</owners_number>
+			<year>2024</year>
+			<price>2749000</price>
+			<credit_discount>50000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>200000</tradein_discount>
+			<max_discount>250000</max_discount>
+			<currency>RUR</currency>
+			<vin>LMGHT1L85R3088293</vin>
+			<description>GАС Центр Кулакова – официальный дилер GAС в Ставрополе 
+
+Большой склад автомобилей в наличии!
+
+Пpеимущеcтва покупки нoвогo aвтoмoбиля в GAС Центр Кулакова:
+☑️ Бoльшoй выбор aвтoмoбилeй в нaличии на нашем складе
+☑️ Выдaча aвтoмобиля дeнь в дeнь
+☑️ Гарантия нa aвтoмoбили 5 лет или 150 000 км.(в зависимости от того что наступит ранее)
+☑️ НДС и индивидуальныe услoвия пoкупки в Лизинг
+☑️ Лучшиe услoвия пo обмену автo
+☑️ Дoпoлнитeльные уcлoвия пpи oбменe aвтомобилей с пробегом Премиальных брендов (Аudi, ВМW, Меrсеdеs, Lехus, Роrsсhе, Lаnd Rоvеr, Jаguаr, Vоlvо, Infiniti)
+
+Выгодные программы по кредитованию и страхованию в GАС Центр Кулакова:
+☑️ Дистанционная подача заявки на кредитование/страхование
+☑️ Возможность выбора программы кредитования (Вы сами выбираете банк с самыми подходящими для Вас условиями).
+☑️ Полное сопровождение сделки нашими специалистами
+
+⭐️Производитель: GАС Моtоr Соrроrаtiоn - один из крупнейших автомобилестроительных компаний Китая и мира, в структуру которой входят заводы и бренды Тоyоtа, Ноndа, Мitsubishi в Китае.
+⭐️Выбирайте автомобиль который подходит именно для Вас в GАС Центр Кулакова 
+⭐️GАС Центр Кулакова – это индивидуальный подход и специальные условия для каждого! 
+
+Ждем Вас в дилерском центре GАС Центр Кулакова по адресу г.Ставрополь, пр-т.Кулакова 32а</description>
+			<images>
+				<image>https://photo.toyotasever.ru/LMGHT1L85R3088292/c8ad361e855bf73172fe3d4c423ad7ca.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L85R3088292/d589fe9d0b17efd036c1caa31fc48501.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L85R3088292/dfa8a83f6cc552aaaf5fa1b779f325c0.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L85R3088292/94c5fd6916e07b820fd23a98c07ffa98.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L85R3088292/5aa3206baa44ded2fa427b96a95ea20b.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L85R3088292/62aaa0fa579373d175f79528c8ecf996.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L85R3088292/2c566e76e85cf834409bd81d0fcbd8a0.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L85R3088292/f9d8982b054cddec8d551982998f3fd4.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L85R3088292/b84ef3754ff74aa674bb9b3f4a98c994.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L85R3088292/217773cc9a367b3b727c484dd3f2fba4.jpg</image>
 			</images>
 		<url>https://gac-stavauto.alexsab.ru/cars/gac-gs3-15-amt-170-лс-gl-белый-2024/</url></car>
 		<car>
@@ -5322,6 +5322,67 @@
 			<tradein_discount>300000</tradein_discount>
 			<max_discount>300000</max_discount>
 			<currency>RUR</currency>
+			<vin>LMGJU3G88R1036351</vin>
+			<description>GАС Центр Кулакова – официальный дилер GAС в Ставрополе 
+
+Большой склад автомобилей в наличии!
+
+Пpеимущеcтва покупки нoвогo aвтoмoбиля в GAС Центр Кулакова:
+☑️ Бoльшoй выбор aвтoмoбилeй в нaличии на нашем складе
+☑️ Выдaча aвтoмобиля дeнь в дeнь
+☑️ Гарантия нa aвтoмoбили 5 лет или 150 000 км.(в зависимости от того что наступит ранее)
+☑️ НДС и индивидуальныe услoвия пoкупки в Лизинг
+☑️ Лучшиe услoвия пo обмену автo
+☑️ Дoпoлнитeльные уcлoвия пpи oбменe aвтомобилей с пробегом Премиальных брендов (Аudi, ВМW, Меrсеdеs, Lехus, Роrsсhе, Lаnd Rоvеr, Jаguаr, Vоlvо, Infiniti)
+
+Выгодные программы по кредитованию и страхованию в GАС Центр Кулакова:
+☑️ Дистанционная подача заявки на кредитование/страхование
+☑️ Возможность выбора программы кредитования (Вы сами выбираете банк с самыми подходящими для Вас условиями).
+☑️ Полное сопровождение сделки нашими специалистами
+
+⭐️Производитель: GАС Моtоr Соrроrаtiоn - один из крупнейших автомобилестроительных компаний Китая и мира, в структуру которой входят заводы и бренды Тоyоtа, Ноndа, Мitsubishi в Китае.
+⭐️Выбирайте автомобиль который подходит именно для Вас в GАС Центр Кулакова 
+⭐️GАС Центр Кулакова – это индивидуальный подход и специальные условия для каждого! 
+
+Ждем Вас в дилерском центре GАС Центр Кулакова по адресу г.Ставрополь, пр-т.Кулакова 32а</description>
+			<images>
+				<image>https://photo.toyotasever.ru/LMGJU3G88R1036350/d6f05e75de08585ffce3502a37a4b42e.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G88R1036350/72f4996c73eb1e252e6847c531833bf2.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G88R1036350/0bdbedbf9d2a3fa6e249857c8f336c81.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G88R1036350/8468f6847168b0d8a9697d6af932d07c.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G88R1036350/6617793802ae9b8a7a866be46f62c671.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G88R1036350/5ba8403e0d91b23d2a579083fb2531e7.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G88R1036350/1cc5831b5acf304c3c0bd749567aea8a.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G88R1036350/3f58c1129839edaeb89191d9e88a9198.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G88R1036350/66cdf0ad6d7e2893942451121c55b6fb.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G88R1036350/cf795eaaa6dfbf10efe2a59ad34a86f8.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G88R1036350/d7dd73a7b85015dde32fff4ed39860a7.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G88R1036350/e1202e62fc66f97f493fd009d863cc24.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G88R1036350/8522f59e6272e1601143cb17e19068aa.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G88R1036350/e24870be5cc1c1ab9de23af15e1a5807.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G88R1036350/07e3a1cebec2c494c377636217a37e8c.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G88R1036350/88869dcc242af79051d5b96bca538579.jpg</image>
+			</images>
+		<url>https://gac-stavauto.alexsab.ru/cars/gac-gs8-ii-20-at-231-лс-4wd-gx-premium-белый-2024/</url></car>
+		<car>
+			<mark_id>GAC</mark_id>
+			<folder_id>GS8, II</folder_id>
+			<modification_id>2.0 AT (231 л.с.) 4WD</modification_id>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<complectation_name>GX Premium</complectation_name>
+			<wheel>левый</wheel>
+			<color>Белый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<owners_number>Не было владельцев</owners_number>
+			<year>2024</year>
+			<price>4749000</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>300000</tradein_discount>
+			<max_discount>300000</max_discount>
+			<currency>RUR</currency>
 			<vin>LMGJU3G87R1036406</vin>
 			<description>GАС Центр Кулакова – официальный дилер GAС в Ставрополе 
 
@@ -5364,67 +5425,6 @@
 				<image>https://photo.toyotasever.ru/LMGJU3G87R1036405/08d48b5ef8c805692a0227a47ebc0148.jpg</image>
 			</images>
 		<url>https://gac-stavauto.alexsab.ru/cars/gac-gs8-ii-20-at-231-лс-4wd-gx-premium-белый-2024/</url></car>
-		<car>
-			<mark_id>GAC</mark_id>
-			<folder_id>GS8, II</folder_id>
-			<modification_id>2.0 AT (231 л.с.) 4WD</modification_id>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<complectation_name>GX Premium</complectation_name>
-			<wheel>левый</wheel>
-			<color>Зеленый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<owners_number>Не было владельцев</owners_number>
-			<year>2024</year>
-			<price>4749000</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>300000</tradein_discount>
-			<max_discount>300000</max_discount>
-			<currency>RUR</currency>
-			<vin>LMGJU3G85R1031852</vin>
-			<description>GАС Центр Кулакова – официальный дилер GAС в Ставрополе 
-
-Большой склад автомобилей в наличии!
-
-Пpеимущеcтва покупки нoвогo aвтoмoбиля в GAС Центр Кулакова:
-☑️ Бoльшoй выбор aвтoмoбилeй в нaличии на нашем складе
-☑️ Выдaча aвтoмобиля дeнь в дeнь
-☑️ Гарантия нa aвтoмoбили 5 лет или 150 000 км.(в зависимости от того что наступит ранее)
-☑️ НДС и индивидуальныe услoвия пoкупки в Лизинг
-☑️ Лучшиe услoвия пo обмену автo
-☑️ Дoпoлнитeльные уcлoвия пpи oбменe aвтомобилей с пробегом Премиальных брендов (Аudi, ВМW, Меrсеdеs, Lехus, Роrsсhе, Lаnd Rоvеr, Jаguаr, Vоlvо, Infiniti)
-
-Выгодные программы по кредитованию и страхованию в GАС Центр Кулакова:
-☑️ Дистанционная подача заявки на кредитование/страхование
-☑️ Возможность выбора программы кредитования (Вы сами выбираете банк с самыми подходящими для Вас условиями).
-☑️ Полное сопровождение сделки нашими специалистами
-
-⭐️Производитель: GАС Моtоr Соrроrаtiоn - один из крупнейших автомобилестроительных компаний Китая и мира, в структуру которой входят заводы и бренды Тоyоtа, Ноndа, Мitsubishi в Китае.
-⭐️Выбирайте автомобиль который подходит именно для Вас в GАС Центр Кулакова 
-⭐️GАС Центр Кулакова – это индивидуальный подход и специальные условия для каждого! 
-
-Ждем Вас в дилерском центре GАС Центр Кулакова по адресу г.Ставрополь, пр-т.Кулакова 32а</description>
-			<images>
-				<image>https://photo.toyotasever.ru/LMGJU3G85R1031851/986c948a1dcf3d26d9bf5c159d58c344.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G85R1031851/2a37a916dd210a97e237e14d36ae887e.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G85R1031851/21237d194d940f83063bc25849eec10c.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G85R1031851/185027ae860c1f3c7cde580bd4310f6c.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G85R1031851/907db9b51a9438cd48522020912aab64.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G85R1031851/3ca82bd4344c30c87b28242487cbd8fd.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G85R1031851/04ab9502a7b494933b707458d7ffab6f.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G85R1031851/84a93c7c765954bbf24ad4c414971bb7.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G85R1031851/aa8d6d423d2278f20e0b4eb0b680917e.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G85R1031851/a7622d603d36bb55e4802455023a6e52.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G85R1031851/61dfae9eb8e4fb85c8c25d49f422e06b.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G85R1031851/b540d3de629e49f3a4144edae527cf6e.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G85R1031851/3ae9a8b39220ac49fcecc639d2a15ff4.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G85R1031851/ebd6a10cd667def139ead590bc421eae.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G85R1031851/eb45721ab92172b7533ff6c34227431e.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G85R1031851/d17ae56cfae5aa360d70f145cc1931b1.jpg</image>
-			</images>
-		<url>https://gac-stavauto.alexsab.ru/cars/gac-gs8-ii-20-at-231-лс-4wd-gx-premium-зеленый-2024/</url></car>
 		<car>
 			<mark_id>GAC</mark_id>
 			<folder_id>GS8, II</folder_id>
@@ -5661,67 +5661,6 @@
 			<body_type>Внедорожник 5 дв.</body_type>
 			<complectation_name>GX Premium</complectation_name>
 			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<owners_number>Не было владельцев</owners_number>
-			<year>2024</year>
-			<price>4749000</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>300000</tradein_discount>
-			<max_discount>300000</max_discount>
-			<currency>RUR</currency>
-			<vin>LMGJU3G88R1036351</vin>
-			<description>GАС Центр Кулакова – официальный дилер GAС в Ставрополе 
-
-Большой склад автомобилей в наличии!
-
-Пpеимущеcтва покупки нoвогo aвтoмoбиля в GAС Центр Кулакова:
-☑️ Бoльшoй выбор aвтoмoбилeй в нaличии на нашем складе
-☑️ Выдaча aвтoмобиля дeнь в дeнь
-☑️ Гарантия нa aвтoмoбили 5 лет или 150 000 км.(в зависимости от того что наступит ранее)
-☑️ НДС и индивидуальныe услoвия пoкупки в Лизинг
-☑️ Лучшиe услoвия пo обмену автo
-☑️ Дoпoлнитeльные уcлoвия пpи oбменe aвтомобилей с пробегом Премиальных брендов (Аudi, ВМW, Меrсеdеs, Lехus, Роrsсhе, Lаnd Rоvеr, Jаguаr, Vоlvо, Infiniti)
-
-Выгодные программы по кредитованию и страхованию в GАС Центр Кулакова:
-☑️ Дистанционная подача заявки на кредитование/страхование
-☑️ Возможность выбора программы кредитования (Вы сами выбираете банк с самыми подходящими для Вас условиями).
-☑️ Полное сопровождение сделки нашими специалистами
-
-⭐️Производитель: GАС Моtоr Соrроrаtiоn - один из крупнейших автомобилестроительных компаний Китая и мира, в структуру которой входят заводы и бренды Тоyоtа, Ноndа, Мitsubishi в Китае.
-⭐️Выбирайте автомобиль который подходит именно для Вас в GАС Центр Кулакова 
-⭐️GАС Центр Кулакова – это индивидуальный подход и специальные условия для каждого! 
-
-Ждем Вас в дилерском центре GАС Центр Кулакова по адресу г.Ставрополь, пр-т.Кулакова 32а</description>
-			<images>
-				<image>https://photo.toyotasever.ru/LMGJU3G88R1036350/d6f05e75de08585ffce3502a37a4b42e.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G88R1036350/72f4996c73eb1e252e6847c531833bf2.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G88R1036350/0bdbedbf9d2a3fa6e249857c8f336c81.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G88R1036350/8468f6847168b0d8a9697d6af932d07c.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G88R1036350/6617793802ae9b8a7a866be46f62c671.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G88R1036350/5ba8403e0d91b23d2a579083fb2531e7.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G88R1036350/1cc5831b5acf304c3c0bd749567aea8a.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G88R1036350/3f58c1129839edaeb89191d9e88a9198.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G88R1036350/66cdf0ad6d7e2893942451121c55b6fb.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G88R1036350/cf795eaaa6dfbf10efe2a59ad34a86f8.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G88R1036350/d7dd73a7b85015dde32fff4ed39860a7.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G88R1036350/e1202e62fc66f97f493fd009d863cc24.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G88R1036350/8522f59e6272e1601143cb17e19068aa.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G88R1036350/e24870be5cc1c1ab9de23af15e1a5807.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G88R1036350/07e3a1cebec2c494c377636217a37e8c.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G88R1036350/88869dcc242af79051d5b96bca538579.jpg</image>
-			</images>
-		<url>https://gac-stavauto.alexsab.ru/cars/gac-gs8-ii-20-at-231-лс-4wd-gx-premium-белый-2024/</url></car>
-		<car>
-			<mark_id>GAC</mark_id>
-			<folder_id>GS8, II</folder_id>
-			<modification_id>2.0 AT (231 л.с.) 4WD</modification_id>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<complectation_name>GX Premium</complectation_name>
-			<wheel>левый</wheel>
 			<color>Черный</color>
 			<metallic>нет</metallic>
 			<availability>в наличии</availability>
@@ -5734,7 +5673,7 @@
 			<tradein_discount>300000</tradein_discount>
 			<max_discount>300000</max_discount>
 			<currency>RUR</currency>
-			<vin>LMGJU3G81R1040127</vin>
+			<vin>LMGJU3G89R1036567</vin>
 			<description>GАС Центр Кулакова – официальный дилер GAС в Ставрополе 
 
 Большой склад автомобилей в наличии!
@@ -5758,18 +5697,79 @@
 
 Ждем Вас в дилерском центре GАС Центр Кулакова по адресу г.Ставрополь, пр-т.Кулакова 32а</description>
 			<images>
-				<image>https://photo.toyotasever.ru/LMGJU3G81R1040126/b5acd93e2cfb083a3e4bdf94a846ffc7.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G81R1040126/05b3e6f509baacdf7a455106dd38b6ae.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G81R1040126/465c9894b2bc314f5d001bfd583fc3a8.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G81R1040126/0a1cafbb46acb2c3b4a4fa005ae60fe2.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G81R1040126/6c18932ce43879cbadb2465ac2bff294.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G81R1040126/6d1e5eb751be633268f16aa09b369f04.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G81R1040126/646e57441e55095ea3be3fa3f514eb8e.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G81R1040126/c46e7acc54ca8c073605348535e8b204.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G81R1040126/adb485e5b92045d0170dee95505302f7.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G81R1040126/4d5a129a2b3953cad8d3b89789eeb335.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G89R1036566/b077c9932efd5a242249b3aa324adaa3.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G89R1036566/2db922c3c886fd4897b20fd4eb9f90ff.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G89R1036566/01b01329fde2df6d8c05239631381f06.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G89R1036566/0af87adb8765e9963fbefbba940ca121.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G89R1036566/4c08e0e6e435793aceecdbc882bec1be.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G89R1036566/d1c2046a229f1ce3286aca92214cb3df.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G89R1036566/04231d37800b828a9ac0d7a0ed4d9420.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G89R1036566/30ea8b9328642e214418d93fd0f2e902.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G89R1036566/d6a5f019dbf1d665267dc67dec2d34ee.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G89R1036566/d7049569d53633f339e8c8fffeca746b.jpg</image>
 			</images>
 		<url>https://gac-stavauto.alexsab.ru/cars/gac-gs8-ii-20-at-231-лс-4wd-gx-premium-черный-2024/</url></car>
+		<car>
+			<mark_id>GAC</mark_id>
+			<folder_id>GS8, II</folder_id>
+			<modification_id>2.0 AT (231 л.с.) 4WD</modification_id>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<complectation_name>GX Premium</complectation_name>
+			<wheel>левый</wheel>
+			<color>Зеленый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<owners_number>Не было владельцев</owners_number>
+			<year>2024</year>
+			<price>4749000</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>300000</tradein_discount>
+			<max_discount>300000</max_discount>
+			<currency>RUR</currency>
+			<vin>LMGJU3G85R1031852</vin>
+			<description>GАС Центр Кулакова – официальный дилер GAС в Ставрополе 
+
+Большой склад автомобилей в наличии!
+
+Пpеимущеcтва покупки нoвогo aвтoмoбиля в GAС Центр Кулакова:
+☑️ Бoльшoй выбор aвтoмoбилeй в нaличии на нашем складе
+☑️ Выдaча aвтoмобиля дeнь в дeнь
+☑️ Гарантия нa aвтoмoбили 5 лет или 150 000 км.(в зависимости от того что наступит ранее)
+☑️ НДС и индивидуальныe услoвия пoкупки в Лизинг
+☑️ Лучшиe услoвия пo обмену автo
+☑️ Дoпoлнитeльные уcлoвия пpи oбменe aвтомобилей с пробегом Премиальных брендов (Аudi, ВМW, Меrсеdеs, Lехus, Роrsсhе, Lаnd Rоvеr, Jаguаr, Vоlvо, Infiniti)
+
+Выгодные программы по кредитованию и страхованию в GАС Центр Кулакова:
+☑️ Дистанционная подача заявки на кредитование/страхование
+☑️ Возможность выбора программы кредитования (Вы сами выбираете банк с самыми подходящими для Вас условиями).
+☑️ Полное сопровождение сделки нашими специалистами
+
+⭐️Производитель: GАС Моtоr Соrроrаtiоn - один из крупнейших автомобилестроительных компаний Китая и мира, в структуру которой входят заводы и бренды Тоyоtа, Ноndа, Мitsubishi в Китае.
+⭐️Выбирайте автомобиль который подходит именно для Вас в GАС Центр Кулакова 
+⭐️GАС Центр Кулакова – это индивидуальный подход и специальные условия для каждого! 
+
+Ждем Вас в дилерском центре GАС Центр Кулакова по адресу г.Ставрополь, пр-т.Кулакова 32а</description>
+			<images>
+				<image>https://photo.toyotasever.ru/LMGJU3G85R1031851/986c948a1dcf3d26d9bf5c159d58c344.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G85R1031851/2a37a916dd210a97e237e14d36ae887e.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G85R1031851/21237d194d940f83063bc25849eec10c.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G85R1031851/185027ae860c1f3c7cde580bd4310f6c.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G85R1031851/907db9b51a9438cd48522020912aab64.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G85R1031851/3ca82bd4344c30c87b28242487cbd8fd.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G85R1031851/04ab9502a7b494933b707458d7ffab6f.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G85R1031851/84a93c7c765954bbf24ad4c414971bb7.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G85R1031851/aa8d6d423d2278f20e0b4eb0b680917e.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G85R1031851/a7622d603d36bb55e4802455023a6e52.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G85R1031851/61dfae9eb8e4fb85c8c25d49f422e06b.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G85R1031851/b540d3de629e49f3a4144edae527cf6e.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G85R1031851/3ae9a8b39220ac49fcecc639d2a15ff4.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G85R1031851/ebd6a10cd667def139ead590bc421eae.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G85R1031851/eb45721ab92172b7533ff6c34227431e.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G85R1031851/d17ae56cfae5aa360d70f145cc1931b1.jpg</image>
+			</images>
+		<url>https://gac-stavauto.alexsab.ru/cars/gac-gs8-ii-20-at-231-лс-4wd-gx-premium-зеленый-2024/</url></car>
 		<car>
 			<mark_id>GAC</mark_id>
 			<folder_id>GS8, II</folder_id>
@@ -5954,7 +5954,7 @@
 			<tradein_discount>300000</tradein_discount>
 			<max_discount>300000</max_discount>
 			<currency>RUR</currency>
-			<vin>LMGJU3G89R1036567</vin>
+			<vin>LMGJU3G81R1040127</vin>
 			<description>GАС Центр Кулакова – официальный дилер GAС в Ставрополе 
 
 Большой склад автомобилей в наличии!
@@ -5978,16 +5978,16 @@
 
 Ждем Вас в дилерском центре GАС Центр Кулакова по адресу г.Ставрополь, пр-т.Кулакова 32а</description>
 			<images>
-				<image>https://photo.toyotasever.ru/LMGJU3G89R1036566/b077c9932efd5a242249b3aa324adaa3.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G89R1036566/2db922c3c886fd4897b20fd4eb9f90ff.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G89R1036566/01b01329fde2df6d8c05239631381f06.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G89R1036566/0af87adb8765e9963fbefbba940ca121.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G89R1036566/4c08e0e6e435793aceecdbc882bec1be.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G89R1036566/d1c2046a229f1ce3286aca92214cb3df.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G89R1036566/04231d37800b828a9ac0d7a0ed4d9420.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G89R1036566/30ea8b9328642e214418d93fd0f2e902.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G89R1036566/d6a5f019dbf1d665267dc67dec2d34ee.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G89R1036566/d7049569d53633f339e8c8fffeca746b.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G81R1040126/b5acd93e2cfb083a3e4bdf94a846ffc7.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G81R1040126/05b3e6f509baacdf7a455106dd38b6ae.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G81R1040126/465c9894b2bc314f5d001bfd583fc3a8.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G81R1040126/0a1cafbb46acb2c3b4a4fa005ae60fe2.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G81R1040126/6c18932ce43879cbadb2465ac2bff294.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G81R1040126/6d1e5eb751be633268f16aa09b369f04.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G81R1040126/646e57441e55095ea3be3fa3f514eb8e.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G81R1040126/c46e7acc54ca8c073605348535e8b204.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G81R1040126/adb485e5b92045d0170dee95505302f7.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G81R1040126/4d5a129a2b3953cad8d3b89789eeb335.jpg</image>
 			</images>
 		<url>https://gac-stavauto.alexsab.ru/cars/gac-gs8-ii-20-at-231-лс-4wd-gx-premium-черный-2024/</url></car>
 	</cars>
