@@ -1541,7 +1541,7 @@ GАС Центр Кулакова – официальный дилер GAС в 
 			<price>4399000</price>
 			<credit_discount>100000</credit_discount>
 			<insurance_discount>50000</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>300000</tradein_discount>
 			<max_discount>450000</max_discount>
 			<currency>RUR</currency>
 			<vin>LMGJU3G82R1039101</vin>
@@ -1909,7 +1909,7 @@ GАС Центр Кулакова – официальный дилер GAС в 
 			<price>4699000</price>
 			<credit_discount>100000</credit_discount>
 			<insurance_discount>50000</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>300000</tradein_discount>
 			<max_discount>150000</max_discount>
 			<currency>RUR</currency>
 			<vin>LMGJU3G88R1033285</vin>
@@ -2250,7 +2250,7 @@ GАС Центр Кулакова – официальный дилер GAС в 
 			<price>4749000</price>
 			<credit_discount>100000</credit_discount>
 			<insurance_discount>50000</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>300000</tradein_discount>
 			<max_discount>450000</max_discount>
 			<currency>RUR</currency>
 			<vin>LMGJU3G88R1036350</vin>
@@ -4745,7 +4745,7 @@ GАС Центр Кулакова – официальный дилер GAС в 
 			<price>4399000</price>
 			<credit_discount>100000</credit_discount>
 			<insurance_discount>50000</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>300000</tradein_discount>
 			<max_discount>450000</max_discount>
 			<currency>RUR</currency>
 			<vin>LMGJU3G82R1039102</vin>
@@ -5113,7 +5113,7 @@ GАС Центр Кулакова – официальный дилер GAС в 
 			<price>4699000</price>
 			<credit_discount>100000</credit_discount>
 			<insurance_discount>50000</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>300000</tradein_discount>
 			<max_discount>150000</max_discount>
 			<currency>RUR</currency>
 			<vin>LMGJU3G88R1033286</vin>
@@ -5454,7 +5454,7 @@ GАС Центр Кулакова – официальный дилер GAС в 
 			<price>4749000</price>
 			<credit_discount>100000</credit_discount>
 			<insurance_discount>50000</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>300000</tradein_discount>
 			<max_discount>450000</max_discount>
 			<currency>RUR</currency>
 			<vin>LMGJU3G88R1036351</vin>
