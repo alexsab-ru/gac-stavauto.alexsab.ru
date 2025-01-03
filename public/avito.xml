@@ -918,7 +918,7 @@ GАС Центр Кулакова – официальный дилер GAС в 
 
 *Подробности предложения у консультантов отдела продаж</Description>
 		<Price>2379000</Price>
-		<TradeinDiscount>200000</TradeinDiscount>
+		<TradeinDiscount />
 		<CreditDiscount>75000</CreditDiscount>
 		<InsuranceDiscount>50000</InsuranceDiscount>
 		<MaxDiscount>500000</MaxDiscount>
@@ -1166,7 +1166,7 @@ GАС Центр Кулакова – официальный дилер GAС в 
 
 Ждем Вас в дилерском центре GАС Центр Кулакова по адресу г.Ставрополь, пр-т.Кулакова 32а</Description>
 		<Price>4399000</Price>
-		<TradeinDiscount>300000</TradeinDiscount>
+		<TradeinDiscount />
 		<CreditDiscount>100000</CreditDiscount>
 		<InsuranceDiscount>50000</InsuranceDiscount>
 		<MaxDiscount>450000</MaxDiscount>
@@ -3135,7 +3135,7 @@ GАС Центр Кулакова – официальный дилер GAС в 
 
 *Подробности предложения у консультантов отдела продаж</Description>
 		<Price>2379000</Price>
-		<TradeinDiscount>200000</TradeinDiscount>
+		<TradeinDiscount />
 		<CreditDiscount>75000</CreditDiscount>
 		<InsuranceDiscount>50000</InsuranceDiscount>
 		<MaxDiscount>500000</MaxDiscount>
@@ -3383,7 +3383,7 @@ GАС Центр Кулакова – официальный дилер GAС в 
 
 Ждем Вас в дилерском центре GАС Центр Кулакова по адресу г.Ставрополь, пр-т.Кулакова 32а</Description>
 		<Price>4399000</Price>
-		<TradeinDiscount>300000</TradeinDiscount>
+		<TradeinDiscount />
 		<CreditDiscount>100000</CreditDiscount>
 		<InsuranceDiscount>50000</InsuranceDiscount>
 		<MaxDiscount>450000</MaxDiscount>

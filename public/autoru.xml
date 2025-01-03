@@ -812,7 +812,7 @@ GАС Центр Кулакова – официальный дилер GAС в 
 			<price>2399000</price>
 			<credit_discount>75000</credit_discount>
 			<insurance_discount>50000</insurance_discount>
-			<tradein_discount>200000</tradein_discount>
+			<tradein_discount>0</tradein_discount>
 			<max_discount>500000</max_discount>
 			<currency>RUR</currency>
 			<vin>LMGHT1L25R3085792</vin>
@@ -1042,7 +1042,7 @@ GАС Центр Кулакова – официальный дилер GAС в 
 			<price>4399000</price>
 			<credit_discount>100000</credit_discount>
 			<insurance_discount>50000</insurance_discount>
-			<tradein_discount>300000</tradein_discount>
+			<tradein_discount>0</tradein_discount>
 			<max_discount>450000</max_discount>
 			<currency>RUR</currency>
 			<vin>LMGJU3G82R1039101</vin>
@@ -2798,7 +2798,7 @@ GАС Центр Кулакова – официальный дилер GAС в 
 			<price>2399000</price>
 			<credit_discount>75000</credit_discount>
 			<insurance_discount>50000</insurance_discount>
-			<tradein_discount>200000</tradein_discount>
+			<tradein_discount>0</tradein_discount>
 			<max_discount>500000</max_discount>
 			<currency>RUR</currency>
 			<vin>LMGHT1L25R3085793</vin>
@@ -3028,7 +3028,7 @@ GАС Центр Кулакова – официальный дилер GAС в 
 			<price>4399000</price>
 			<credit_discount>100000</credit_discount>
 			<insurance_discount>50000</insurance_discount>
-			<tradein_discount>300000</tradein_discount>
+			<tradein_discount>0</tradein_discount>
 			<max_discount>450000</max_discount>
 			<currency>RUR</currency>
 			<vin>LMGJU3G82R1039102</vin>
