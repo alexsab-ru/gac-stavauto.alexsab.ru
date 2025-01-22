@@ -336,7 +336,7 @@ GAC GS3 GB-R – это воплощение стиля и мощи в кажд�
 Ждём вас в нашем дилерском центре: г. Ставрополь, пр-т Кулакова 32а
 
 *Подробности предложения у консультантов отдела продаж.</Description>
-		<Price>2599000</Price>
+		<Price>2595000</Price>
 		<TradeinDiscount>200000</TradeinDiscount>
 		<CreditDiscount>100000</CreditDiscount>
 		<InsuranceDiscount>50000</InsuranceDiscount>
@@ -1196,7 +1196,18 @@ GАС Центр Кулакова – официальный дилер GAС в 
 		<InsuranceDiscount>50000</InsuranceDiscount>
 		<MaxDiscount>450000</MaxDiscount>
 		<Color>Черный</Color>
-		<Images />
+		<Images>
+			<Image url="https://photo.toyotasever.ru/LMGJU3G85R1040713/a282f2a3f1db7a33b0208de1f3a078d3.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGJU3G85R1040713/cb8a587b32feb1f8c65a4ed7fbf7915a.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGJU3G85R1040713/29175e5ddce9757c3518e009f2c98cc2.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGJU3G85R1040713/0d5fbe9760dfd1dc6d23fef1c54859f7.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGJU3G85R1040713/2d4709c653bc7c5d269a4fb9640203d7.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGJU3G85R1040713/b47630faa3d591ee7db8b7d492d313f3.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGJU3G85R1040713/e9be1b175e7f4b93a39de199d812b185.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGJU3G85R1040713/45ccb4e3fd578993ed52bf5a35969585.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGJU3G85R1040713/c4077c9de305a647bdd7fb351c047014.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGJU3G85R1040713/bddd62cfa4fed6bed1b67eef6498d0eb.jpg" />
+		</Images>
 		<Make>GAC</Make>
 		<Model>GS8</Model>
 		<GenerationId>17554087</GenerationId>
@@ -2120,7 +2131,7 @@ GAC GS3 GB-R – это воплощение стиля и мощи в кажд�
 Ждём вас в нашем дилерском центре: г. Ставрополь, пр-т Кулакова 32а
 
 *Подробности предложения у консультантов отдела продаж.</Description>
-		<Price>2599000</Price>
+		<Price>2595000</Price>
 		<TradeinDiscount>200000</TradeinDiscount>
 		<CreditDiscount>100000</CreditDiscount>
 		<InsuranceDiscount>50000</InsuranceDiscount>
